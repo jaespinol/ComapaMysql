@@ -1,0 +1,149 @@
+* HMG-IDE ANSI Form Designer Generated Code
+* (c) Roberto Lopez - http://sites.google.com/site/hmgweb
+
+DEFINE WINDOW TEMPLATE AT 168 , 395 WIDTH 667 HEIGHT 519 VIRTUAL WIDTH Nil VIRTUAL HEIGHT Nil TITLE "Comapa Nuevo Laredo 2014" ICON NIL MAIN NOMAXIMIZE NOSIZE CURSOR NIL ON INIT Nil ON RELEASE Nil ON INTERACTIVECLOSE Nil ON MOUSECLICK Nil ON MOUSEDRAG Nil ON MOUSEMOVE Nil ON SIZE Nil ON MAXIMIZE Nil ON MINIMIZE Nil ON PAINT poncolortodo() BACKCOLOR Nil NOTIFYICON NIL NOTIFYTOOLTIP NIL ON NOTIFYCLICK Nil ON GOTFOCUS Nil ON LOSTFOCUS Nil ON SCROLLUP Nil ON SCROLLDOWN Nil ON SCROLLLEFT Nil ON SCROLLRIGHT Nil ON HSCROLLBOX Nil ON VSCROLLBOX Nil
+
+    DEFINE IMAGE Image_1
+        ROW    50
+        COL    170
+        WIDTH  470
+        HEIGHT 380
+        PICTURE "Gotas2.jpg"
+        HELPID Nil
+        VISIBLE .T.
+        STRETCH .T.
+        ACTION Nil
+    END IMAGE
+
+    DEFINE BUTTON Button_1
+        ROW    50
+        COL    20
+        WIDTH  150
+        HEIGHT 60
+        ACTION menufact()
+        CAPTION "Facturacion"
+        FONTNAME "Arial"
+        FONTSIZE 9
+        TOOLTIP ""
+        FONTBOLD .T.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        ONGOTFOCUS Nil
+        ONLOSTFOCUS Nil
+        HELPID Nil
+        FLAT .F.
+        TABSTOP .T.
+        VISIBLE .T.
+        TRANSPARENT .F.
+        MULTILINE .F.
+        PICTURE "MENU1"
+        PICTALIGNMENT RIGHT
+    END BUTTON
+
+    DEFINE BUTTON Button_2
+        ROW    130
+        COL    20
+        WIDTH  150
+        HEIGHT 60
+        ACTION menucontratos()
+        CAPTION "Contratos"
+        FONTNAME "Arial"
+        FONTSIZE 9
+        TOOLTIP ""
+        FONTBOLD .T.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        ONGOTFOCUS Nil
+        ONLOSTFOCUS Nil
+        HELPID Nil
+        FLAT .F.
+        TABSTOP .T.
+        VISIBLE .T.
+        TRANSPARENT .F.
+        MULTILINE .F.
+        PICTURE "contrato"
+        PICTALIGNMENT RIGHT
+    END BUTTON
+
+    DEFINE BUTTON Button_3
+        ROW    210
+        COL    20
+        WIDTH  150
+        HEIGHT 60
+        ACTION Nil
+        CAPTION "Juridico"
+        FONTNAME "Arial"
+        FONTSIZE 9
+        TOOLTIP ""
+        FONTBOLD .T.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        ONGOTFOCUS Nil
+        ONLOSTFOCUS Nil
+        HELPID Nil
+        FLAT .F.
+        TABSTOP .T.
+        VISIBLE .T.
+        TRANSPARENT .F.
+        MULTILINE .F.
+        PICTURE "juridico"
+        PICTALIGNMENT RIGHT
+    END BUTTON
+
+    DEFINE BUTTON Button_4
+        ROW    290
+        COL    20
+        WIDTH  150
+        HEIGHT 60
+        ACTION configurasql()
+        CAPTION "Utilerias"
+        FONTNAME "Arial"
+        FONTSIZE 9
+        TOOLTIP ""
+        FONTBOLD .T.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        ONGOTFOCUS Nil
+        ONLOSTFOCUS Nil
+        HELPID Nil
+        FLAT .F.
+        TABSTOP .T.
+        VISIBLE .T.
+        TRANSPARENT .F.
+        MULTILINE .F.
+        PICTURE "MENU4"
+        PICTALIGNMENT RIGHT
+    END BUTTON
+
+    DEFINE BUTTON Button_5
+        ROW    370
+        COL    20
+        WIDTH  150
+        HEIGHT 60
+        ACTION thiswindow.release
+        CAPTION "Salir"
+        FONTNAME "Arial"
+        FONTSIZE 9
+        TOOLTIP ""
+        FONTBOLD .T.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        ONGOTFOCUS Nil
+        ONLOSTFOCUS Nil
+        HELPID Nil
+        FLAT .F.
+        TABSTOP .T.
+        VISIBLE .T.
+        TRANSPARENT .F.
+        MULTILINE .F.
+        PICTURE "SALIR"
+        PICTALIGNMENT RIGHT
+    END BUTTON
+
+END WINDOW
+

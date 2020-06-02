@@ -1,0 +1,96 @@
+* HMG-IDE Form Designer Generated Code
+* (c) Roberto Lopez - http://sites.google.com/site/hmgweb
+
+DEFINE WINDOW TEMPLATE AT 529 , 461 WIDTH 473 HEIGHT 206 VIRTUAL WIDTH Nil VIRTUAL HEIGHT Nil TITLE "" ICON NIL MODAL CURSOR NIL ON INIT Nil ON RELEASE Nil ON INTERACTIVECLOSE Nil ON MOUSECLICK Nil ON MOUSEDRAG Nil ON MOUSEMOVE Nil ON SIZE Nil ON PAINT poncolortodo() BACKCOLOR Nil ON GOTFOCUS Nil ON LOSTFOCUS Nil ON SCROLLUP Nil ON SCROLLDOWN Nil ON SCROLLLEFT Nil ON SCROLLRIGHT Nil ON HSCROLLBOX Nil ON VSCROLLBOX Nil
+
+    DEFINE FRAME Frame_1
+        ROW    10
+        COL    10
+        WIDTH  440
+        HEIGHT 100
+        FONTNAME "Times"
+        FONTSIZE 12
+        FONTBOLD .T.
+        FONTITALIC .T.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        CAPTION "About"
+        BACKCOLOR {159,207,255}
+        FONTCOLOR NIL
+        OPAQUE .T.
+    END FRAME
+
+    DEFINE LABEL Label_1
+        ROW    40
+        COL    20
+        WIDTH  420
+        HEIGHT 20
+        VALUE "TimeClock"
+        FONTNAME "Arial"
+        FONTSIZE 15
+        TOOLTIP ""
+        FONTBOLD .T.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        HELPID Nil
+        VISIBLE .T.
+        TRANSPARENT .T.
+        ACTION Nil
+        AUTOSIZE .F.
+        BACKCOLOR NIL
+        FONTCOLOR NIL
+        CENTERALIGN .T. 
+    END LABEL
+
+    DEFINE LABEL Label_2
+        ROW    80
+        COL    20
+        WIDTH  420
+        HEIGHT 20
+        VALUE "Version :"
+        FONTNAME "Arial"
+        FONTSIZE 12
+        TOOLTIP ""
+        FONTBOLD .T.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        HELPID Nil
+        VISIBLE .T.
+        TRANSPARENT .T.
+        ACTION Nil
+        AUTOSIZE .F.
+        BACKCOLOR NIL
+        FONTCOLOR NIL
+        CENTERALIGN .T. 
+    END LABEL
+
+    DEFINE BUTTON Button_1
+        ROW    120
+        COL    150
+        WIDTH  140
+        HEIGHT 40
+        ACTION thiswindow.release
+        CAPTION "Ok"
+        FONTNAME "Arial"
+        FONTSIZE 10
+        TOOLTIP ""
+        FONTBOLD .T.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        ONGOTFOCUS Nil
+        ONLOSTFOCUS Nil
+        HELPID Nil
+        FLAT .F.
+        TABSTOP .T.
+        VISIBLE .T.
+        TRANSPARENT .F.
+        MULTILINE .F.
+        PICTURE "MINIOK"
+        PICTALIGNMENT LEFT
+    END BUTTON
+
+END WINDOW
+

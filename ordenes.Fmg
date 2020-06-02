@@ -1,0 +1,139 @@
+* HMG-IDE Form Designer Generated Code
+* (c) Roberto Lopez - http://sites.google.com/site/hmgweb
+
+DEFINE WINDOW TEMPLATE AT 65 , 392 WIDTH 816 HEIGHT 661 VIRTUAL WIDTH Nil VIRTUAL HEIGHT Nil TITLE "Ordenes de Trabajo" ICON NIL  CURSOR NIL ON INIT oaumenta() ON RELEASE Nil ON INTERACTIVECLOSE Nil ON MOUSECLICK Nil ON MOUSEDRAG Nil ON MOUSEMOVE Nil ON SIZE Nil ON MAXIMIZE Nil ON MINIMIZE Nil ON PAINT Nil BACKCOLOR {216,233,232} NOTIFYICON NIL NOTIFYTOOLTIP NIL ON NOTIFYCLICK Nil ON GOTFOCUS Nil ON LOSTFOCUS Nil ON SCROLLUP Nil ON SCROLLDOWN Nil ON SCROLLLEFT Nil ON SCROLLRIGHT Nil ON HSCROLLBOX Nil ON VSCROLLBOX Nil
+
+    DEFINE TOOLBAR ToolBar_1 BUTTONSIZE 64,64 FONT "Arial" SIZE 9 FLAT
+        BUTTON toolbalta PICTURE "NUEVO" ACTION altaordent(1) AUTOSIZE
+        BUTTON toolabedit PICTURE "EDITAR" ACTION altaordent(2)
+        BUTTON toolpbaja PICTURE "BORRA" ACTION Nil //hola()
+        BUTTON toolpbusc PICTURE "SEARCH" ACTION Nil //Hola()
+        BUTTON toolpsalir PICTURE "SALIR" ACTION thiswindow.release TOOLTIP "Salir de Ordenes"
+    END TOOLBAR
+
+    DEFINE GRID Grid_1
+        ROW    120
+        COL    10
+        WIDTH  780
+        HEIGHT 490
+        ITEMS gridbusord
+        VALUE Nil
+        WIDTHS { 90,80,100,300,300 }
+        HEADERS {'Numero','Fecha','Localizacion','Nombre','Domicilio'}
+        FONTNAME "Arial"
+        FONTSIZE 9
+        TOOLTIP ""
+        ONCHANGE Nil
+        ONGOTFOCUS Nil
+        ONLOSTFOCUS Nil
+        FONTBOLD .F.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        ONDBLCLICK altaordent(2)
+        ONHEADCLICK Nil
+        ONQUERYDATA Nil
+        MULTISELECT .F.
+        ALLOWEDIT .F.
+        VIRTUAL .F.
+        DYNAMICBACKCOLOR Nil
+        DYNAMICFORECOLOR Nil
+        COLUMNWHEN Nil
+        COLUMNVALID Nil
+        COLUMNCONTROLS Nil
+        SHOWHEADERS .T.
+        CELLNAVIGATION .F.
+        NOLINES .F.
+        HELPID Nil
+        IMAGE Nil
+        JUSTIFY Nil
+        ITEMCOUNT Nil
+        BACKCOLOR NIL
+        FONTCOLOR NIL
+        HEADERIMAGES Nil
+        ROWSOURCE Nil
+        COLUMNFIELDS Nil
+        ALLOWAPPEND .F.
+        ALLOWDELETE .F.
+        BUFFERED .F.
+        DYNAMICDISPLAY Nil
+        ONSAVE Nil
+        LOCKCOLUMNS 0
+    END GRID
+
+    DEFINE BUTTON Button_1
+        ROW    90
+        COL    570
+        WIDTH  40
+        HEIGHT 30
+        ACTION odisminuye()
+        CAPTION Nil
+        FONTNAME "Arial"
+        FONTSIZE 9
+        TOOLTIP ""
+        FONTBOLD .F.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        ONGOTFOCUS Nil
+        ONLOSTFOCUS Nil
+        HELPID Nil
+        FLAT .F.
+        TABSTOP .T.
+        VISIBLE .T.
+        TRANSPARENT .F.
+        MULTILINE .F.
+        PICTURE "izquierda.bmp"
+        PICTALIGNMENT TOP
+    END BUTTON
+
+    DEFINE BUTTON Button_2
+        ROW    90
+        COL    750
+        WIDTH  40
+        HEIGHT 30
+        ACTION oaumenta()
+        CAPTION Nil
+        FONTNAME "Arial"
+        FONTSIZE 9
+        TOOLTIP ""
+        FONTBOLD .F.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        ONGOTFOCUS Nil
+        ONLOSTFOCUS Nil
+        HELPID Nil
+        FLAT .F.
+        TABSTOP .T.
+        VISIBLE .T.
+        TRANSPARENT .F.
+        MULTILINE .F.
+        PICTURE "derecha.bmp"
+        PICTALIGNMENT TOP
+    END BUTTON
+
+    DEFINE LABEL Label_1
+        ROW    90
+        COL    620
+        WIDTH  120
+        HEIGHT 24
+        VALUE "Label_1"
+        FONTNAME "Arial"
+        FONTSIZE 9
+        TOOLTIP ""
+        FONTBOLD .F.
+        FONTITALIC .F.
+        FONTUNDERLINE .F.
+        FONTSTRIKEOUT .F.
+        HELPID Nil
+        VISIBLE .T.
+        TRANSPARENT .F.
+        ACTION Nil
+        AUTOSIZE .F.
+        BACKCOLOR NIL
+        FONTCOLOR NIL
+    END LABEL
+
+END WINDOW
+

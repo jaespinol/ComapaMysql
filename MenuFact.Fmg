@@ -1,0 +1,33 @@
+* HMG-IDE Form Designer Generated Code
+* (c) Roberto Lopez - http://sites.google.com/site/hmgweb
+
+DEFINE WINDOW TEMPLATE AT 144 , 310 WIDTH 799 HEIGHT 470 VIRTUAL WIDTH Nil VIRTUAL HEIGHT Nil TITLE "" ICON NIL CHILD CURSOR NIL ON INIT Nil ON RELEASE Nil ON INTERACTIVECLOSE Nil ON MOUSECLICK Nil ON MOUSEDRAG Nil ON MOUSEMOVE Nil ON SIZE Nil ON MAXIMIZE Nil ON MINIMIZE Nil ON PAINT poncolortodo() BACKCOLOR {24,84,150} NOTIFYICON NIL NOTIFYTOOLTIP NIL ON NOTIFYCLICK Nil ON GOTFOCUS Nil ON LOSTFOCUS Nil ON SCROLLUP Nil ON SCROLLDOWN Nil ON SCROLLLEFT Nil ON SCROLLRIGHT Nil ON HSCROLLBOX Nil ON VSCROLLBOX Nil
+
+    DEFINE MAIN MENU
+        DEFINE POPUP "Movimientos"
+            MENUITEM "Lecturas" ACTION loadLecturas()
+            MENUITEM "Padron" ACTION (loadlistpadron(1),padron:=1)
+            MENUITEM "Alta en lecturas" ACTION altalec()
+            MENUITEM "Cambios Ruta y Folio" ACTION cambryf()
+            MENUITEM "Verificar Lecturas" ACTION Nil //hola()
+            MENUITEM "Cobros de medidor en recibo" ACTION medidor()
+        END POPUP
+        DEFINE POPUP "Consultas"
+            MENUITEM "Consultas Padron" ACTION loadlistpadron(2)
+            MENUITEM "Consultas Consumos" ACTION consumos(1)
+            MENUITEM "Consulta 1993->Actual" ACTION consumos(2)
+            MENUITEM "Consulta Bonificaciones" ACTION consbon()
+            MENUITEM "Consulta de lectura" ACTION conslect()
+            MENUITEM "Cambios en Padron" ACTION cambpad()
+            MENUITEM "Consultas de Documentos" ACTION conspag()
+            MENUITEM "Ingresar Comentarios" ACTION cambiacom()
+        END POPUP
+        DEFINE POPUP "Reportes"
+        END POPUP
+        DEFINE POPUP "Salir"
+            MENUITEM "Salir" ACTION thiswindow.release
+        END POPUP
+    END MENU
+
+END WINDOW
+

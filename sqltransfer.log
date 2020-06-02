@@ -1,0 +1,647 @@
+[Msg] [Dtf] DataTransfer started
+[Msg] [Dtf] Create target database: Comapa
+[Msg] [Dtf] Getting tables
+[Msg] [Dtf] Drop table: `ANUAL`
+[Msg] [Dtf] Create table: `ANUAL`
+[Msg] [Dtf] Get table data for: ANUAL
+[Msg] [Dtf] Start transfer to Target Server: ANUAL
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Areas`
+[Msg] [Dtf] Create table: `Areas`
+[Msg] [Dtf] Get table data for: Areas
+[Msg] [Dtf] Start transfer to Target Server: Areas
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Autan`
+[Msg] [Dtf] Create table: `Autan`
+[Msg] [Dtf] Get table data for: Autan
+[Msg] [Dtf] Start transfer to Target Server: Autan
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Bases`
+[Msg] [Dtf] Create table: `Bases`
+[Msg] [Dtf] Get table data for: Bases
+[Msg] [Dtf] Start transfer to Target Server: Bases
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Boleta`
+[Msg] [Dtf] Create table: `Boleta`
+[Msg] [Dtf] Get table data for: Boleta
+[Msg] [Dtf] Start transfer to Target Server: Boleta
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Boncfdi`
+[Msg] [Dtf] Create table: `Boncfdi`
+[Msg] [Dtf] Get table data for: Boncfdi
+[Msg] [Dtf] Start transfer to Target Server: Boncfdi
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Boncon`
+[Msg] [Dtf] Create table: `Boncon`
+[Msg] [Dtf] Get table data for: Boncon
+[Msg] [Dtf] Start transfer to Target Server: Boncon
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Bonifica`
+[Msg] [Dtf] Create table: `Bonifica`
+[Msg] [Dtf] Get table data for: Bonifica
+[Msg] [Dtf] Start transfer to Target Server: Bonifica
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Bonirec`
+[Msg] [Dtf] Create table: `Bonirec`
+[Msg] [Dtf] Get table data for: Bonirec
+[Msg] [Dtf] Start transfer to Target Server: Bonirec
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Calles`
+[Msg] [Dtf] Create table: `Calles`
+[Msg] [Dtf] Get table data for: Calles
+[Msg] [Dtf] Start transfer to Target Server: Calles
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Capturis`
+[Msg] [Dtf] Create table: `Capturis`
+[Msg] [Dtf] Get table data for: Capturis
+[Msg] [Dtf] Start transfer to Target Server: Capturis
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Colonias`
+[Msg] [Dtf] Create table: `Colonias`
+[Msg] [Dtf] Get table data for: Colonias
+[Msg] [Dtf] Start transfer to Target Server: Colonias
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Concepto`
+[Msg] [Dtf] Create table: `Concepto`
+[Msg] [Dtf] Get table data for: Concepto
+[Msg] [Dtf] Start transfer to Target Server: Concepto
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Contrato`
+[Msg] [Dtf] Create table: `Contrato`
+[Msg] [Dtf] Get table data for: Contrato
+[Msg] [Dtf] Start transfer to Target Server: Contrato
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Convenio`
+[Msg] [Dtf] Create table: `Convenio`
+[Msg] [Dtf] Get table data for: Convenio
+[Msg] [Dtf] Start transfer to Target Server: Convenio
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Cortenvo`
+[Msg] [Dtf] Create table: `Cortenvo`
+[Msg] [Dtf] Get table data for: Cortenvo
+[Msg] [Dtf] Start transfer to Target Server: Cortenvo
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Cortesfi`
+[Msg] [Dtf] Create table: `Cortesfi`
+[Msg] [Dtf] Get table data for: Cortesfi
+[Msg] [Dtf] Start transfer to Target Server: Cortesfi
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Cuadrillas`
+[Msg] [Dtf] Create table: `Cuadrillas`
+[Msg] [Dtf] Get table data for: Cuadrillas
+[Msg] [Dtf] Start transfer to Target Server: Cuadrillas
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Departamentos`
+[Msg] [Dtf] Create table: `Departamentos`
+[Msg] [Dtf] Get table data for: Departamentos
+[Msg] [Dtf] Start transfer to Target Server: Departamentos
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Dia_pag`
+[Msg] [Dtf] Create table: `Dia_pag`
+[Msg] [Dtf] Get table data for: Dia_pag
+[Msg] [Dtf] Start transfer to Target Server: Dia_pag
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Diametros`
+[Msg] [Dtf] Create table: `Diametros`
+[Msg] [Dtf] Get table data for: Diametros
+[Msg] [Dtf] Start transfer to Target Server: Diametros
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Diapag`
+[Msg] [Dtf] Create table: `Diapag`
+[Msg] [Dtf] Get table data for: Diapag
+[Msg] [Dtf] Start transfer to Target Server: Diapag
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Diversod`
+[Msg] [Dtf] Create table: `Diversod`
+[Msg] [Dtf] Get table data for: Diversod
+[Msg] [Dtf] Start transfer to Target Server: Diversod
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Diversos`
+[Msg] [Dtf] Create table: `Diversos`
+[Msg] [Dtf] Get table data for: Diversos
+[Msg] [Dtf] Start transfer to Target Server: Diversos
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Estatus`
+[Msg] [Dtf] Create table: `Estatus`
+[Msg] [Dtf] Get table data for: Estatus
+[Msg] [Dtf] Start transfer to Target Server: Estatus
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Factant`
+[Msg] [Dtf] Create table: `Factant`
+[Msg] [Dtf] Get table data for: Factant
+[Msg] [Dtf] Start transfer to Target Server: Factant
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Factant_copy`
+[Msg] [Dtf] Create table: `Factant_copy`
+[Msg] [Dtf] Get table data for: Factant_copy
+[Msg] [Dtf] Start transfer to Target Server: Factant_copy
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Facth00`
+[Msg] [Dtf] Create table: `Facth00`
+[Msg] [Dtf] Get table data for: Facth00
+[Msg] [Dtf] Start transfer to Target Server: Facth00
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Facth01`
+[Msg] [Dtf] Create table: `Facth01`
+[Msg] [Dtf] Get table data for: Facth01
+[Msg] [Dtf] Start transfer to Target Server: Facth01
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Facthis`
+[Msg] [Dtf] Create table: `Facthis`
+[Msg] [Dtf] Get table data for: Facthis
+[Msg] [Dtf] Start transfer to Target Server: Facthis
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Facthis_copy`
+[Msg] [Dtf] Create table: `Facthis_copy`
+[Msg] [Dtf] Get table data for: Facthis_copy
+[Msg] [Dtf] Start transfer to Target Server: Facthis_copy
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Falla`
+[Msg] [Dtf] Create table: `Falla`
+[Msg] [Dtf] Get table data for: Falla
+[Msg] [Dtf] Start transfer to Target Server: Falla
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Fechafa`
+[Msg] [Dtf] Create table: `Fechafa`
+[Msg] [Dtf] Get table data for: Fechafa
+[Msg] [Dtf] Start transfer to Target Server: Fechafa
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Foliosn`
+[Msg] [Dtf] Create table: `Foliosn`
+[Msg] [Dtf] Get table data for: Foliosn
+[Msg] [Dtf] Start transfer to Target Server: Foliosn
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Giros`
+[Msg] [Dtf] Create table: `Giros`
+[Msg] [Dtf] Get table data for: Giros
+[Msg] [Dtf] Start transfer to Target Server: Giros
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Histbon`
+[Msg] [Dtf] Create table: `Histbon`
+[Msg] [Dtf] Get table data for: Histbon
+[Msg] [Dtf] Start transfer to Target Server: Histbon
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Histotr`
+[Msg] [Dtf] Create table: `Histotr`
+[Msg] [Dtf] Get table data for: Histotr
+[Msg] [Dtf] Start transfer to Target Server: Histotr
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Histpag`
+[Msg] [Dtf] Create table: `Histpag`
+[Msg] [Dtf] Get table data for: Histpag
+[Msg] [Dtf] Start transfer to Target Server: Histpag
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Histpap`
+[Msg] [Dtf] Create table: `Histpap`
+[Msg] [Dtf] Get table data for: Histpap
+[Msg] [Dtf] Start transfer to Target Server: Histpap
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Ivapag`
+[Msg] [Dtf] Create table: `Ivapag`
+[Msg] [Dtf] Get table data for: Ivapag
+[Msg] [Dtf] Start transfer to Target Server: Ivapag
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Lecturas`
+[Msg] [Dtf] Create table: `Lecturas`
+[Msg] [Dtf] Get table data for: Lecturas
+[Msg] [Dtf] Start transfer to Target Server: Lecturas
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Err] [Dtf] 1153 - Got a packet bigger than 'max_allowed_packet' bytes With statement: INSERT INTO `Lecturas` VALUES ('345', '2225', '2198', '2194', '2194', '2194', '2194', '2194', '2194', '2194', '2194', '2195', '2195', '2196', '', '', '', '', '', '', '', '', '', '', '', '', '2', '2001-01-03', 'JSP', '2001-01-02', '2000-01-24', '2000-02-28', '2000-03-23', '2000-04-27', '2000-05-23', '2000-06-22', '2000-07-25', '2000-08-24', '2000-09-28', '2000-10-26', '2000-11-30', null), ('345', '2260', '3807', '3856', '3880', '3933', '3986', '4035', '3435', '3501', '3615', '3672', '3736', '3775', '', '', '', '', '', '', '', '', '', '', '', '', '7', '2014-06-09', 'POO', '2014-01-02', '2014-02-04', '2014-03-04', '2014-04-05', '2014-05-06', '2014-06-04', '2013-07-01', '2013-08-01', '2013-08-31', '2013-10-03', '2013-11-07', '2013-12-05', 0x312E2D434F525445532F2F5041434845434F2032352F30372F32303131205345204E4F542E2E4A4D530D0A322E2D31362F31302F323031322053452052455649534F204D454449444F522059204D4152434F204655474120534520524556495341524F4E2053414E49544152494F532C4C415641424F532C46524547414445524F532059204C4C41564553204A415244494E4552415320454E434F4E5452414E444F5345204655474120454E20454C2048455252414A4520444520554E4F204445204C4F532053414E49544152494F53205553554152494F20434F4D454E54412048414245522054454E49444F204655474120494E5445524E4120454E20545542455249412E4649524D4F20444520434F4E464F524D49444144204C41205352412E204155524F52412052414E47454C2047414C4C45474F532E20202020494E53504543544F52455320414C454A414E44524F2041475549525245204D4F52454E4F202020414C465245444F2052414D4F5320464C4F5245530D0A41565A2E2D0D0A332E2D2031372F31302F3132204C4543542041435420333034302053452048495A4F20494E535020544F4D412053555254452043415341204445204C414452494C4C4F2C20534520434845434F204D4544204E4F204D4152434120465547412E0D0A494E53504543544F523A20414C424552544F20455350494E4F5A412E20202020202020202020202020202F4C4748200D0A5820494E53502E20534520434152474F20434F4E53554D4F5320494E442044454C204350205041424C4F2043415A415245532032352F31302F3132202020202020202020202020202020202020202F4C47480D0A32372F30362F32303133204C4543542041435420333432372053452048495A4F20494E535020534520434845434F204D45442E2053492046554E43494F4E412059204E4F204D4152434120465547412C20534920534520505545444520434845434152204E4F2053414C494F204E414449452E202020494E53504543544F523A20414C424552544F20455350494E4F5A4120202020202020202020202020202020202F4C47480D0A342E2F32382F30352F31344C454354555241203430323520534920534520505545444520544F4D4152204C41204C45435455524120312043415341204445204D4154455249414C2044452032205049534F5320434F4E2046414348414441204445204C414452494C4C4F204841424954414E2033204144554C544F532C2033204D454E4F524553205920554E2041444F4C4543454E544520454C205553554152494F2041434142412044452043414D42494152204C4120545542455249412050564320504F522046554552412041435455414C4D454E544520454C204D454449444F5220444520312F322045535441204E4F524D414C2C20494E5350205441564F20544F525245532F4D415254494E2047524F2E2E2E4C5354200D0A35333033303337333433303330333733373330333030303030303030303030303030303030303030303030303030303030303030303031303030303030303030303030303044303934443230353030303030303030423038464432303530303030303030304230373444323035303030303030303031303736443230353030303030303030313039324432303530303030303030304630383344323035303030303030303044303744443230353030303030303030333036424432303530303030303030304630354644323035303030303030303044303642443230353030303030303030313038324432303530303030303030303130384644323035303030303030303044303830443230353030303030303030353042314432303530303030303030304430374144323035303030303030303042303745443230353030303030303030313038344432303530303030303030304630423444323035303030303030303031303732443230353030303030303030423036464432303530303030303030303130373044323035303030303030303037303834443230353030303030303030393036344432303530303030303030303930394644323035303030303030303033303546443230353030303030303030353038304432303530303030303030303330423544323035303030303030303044303933443230353030303030303030463037464432303530303030303030304630363044323035303030303030303044303731443230353030303030
+[Err] [Dtf] Finished - Unsuccessfully
+--------------------------------------------------
+[Msg] [Dtf] DataTransfer started
+[Msg] [Dtf] Getting tables
+[Msg] [Dtf] Drop table: `ANUAL`
+[Msg] [Dtf] Create table: `ANUAL`
+[Msg] [Dtf] Get table data for: ANUAL
+[Msg] [Dtf] Start transfer to Target Server: ANUAL
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Areas`
+[Msg] [Dtf] Create table: `Areas`
+[Msg] [Dtf] Get table data for: Areas
+[Msg] [Dtf] Start transfer to Target Server: Areas
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Autan`
+[Msg] [Dtf] Create table: `Autan`
+[Msg] [Dtf] Get table data for: Autan
+[Msg] [Dtf] Start transfer to Target Server: Autan
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Bases`
+[Msg] [Dtf] Create table: `Bases`
+[Msg] [Dtf] Get table data for: Bases
+[Msg] [Dtf] Start transfer to Target Server: Bases
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Boleta`
+[Msg] [Dtf] Create table: `Boleta`
+[Msg] [Dtf] Get table data for: Boleta
+[Msg] [Dtf] Start transfer to Target Server: Boleta
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Boncfdi`
+[Msg] [Dtf] Create table: `Boncfdi`
+[Msg] [Dtf] Get table data for: Boncfdi
+[Msg] [Dtf] Start transfer to Target Server: Boncfdi
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Boncon`
+[Msg] [Dtf] Create table: `Boncon`
+[Msg] [Dtf] Get table data for: Boncon
+[Msg] [Dtf] Start transfer to Target Server: Boncon
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Bonifica`
+[Msg] [Dtf] Create table: `Bonifica`
+[Msg] [Dtf] Get table data for: Bonifica
+[Msg] [Dtf] Start transfer to Target Server: Bonifica
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Bonirec`
+[Msg] [Dtf] Create table: `Bonirec`
+[Msg] [Dtf] Get table data for: Bonirec
+[Msg] [Dtf] Start transfer to Target Server: Bonirec
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Calles`
+[Msg] [Dtf] Create table: `Calles`
+[Msg] [Dtf] Get table data for: Calles
+[Msg] [Dtf] Start transfer to Target Server: Calles
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Capturis`
+[Msg] [Dtf] Create table: `Capturis`
+[Msg] [Dtf] Get table data for: Capturis
+[Msg] [Dtf] Start transfer to Target Server: Capturis
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Colonias`
+[Msg] [Dtf] Create table: `Colonias`
+[Msg] [Dtf] Get table data for: Colonias
+[Msg] [Dtf] Start transfer to Target Server: Colonias
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Concepto`
+[Msg] [Dtf] Create table: `Concepto`
+[Msg] [Dtf] Get table data for: Concepto
+[Msg] [Dtf] Start transfer to Target Server: Concepto
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Contrato`
+[Msg] [Dtf] Create table: `Contrato`
+[Msg] [Dtf] Get table data for: Contrato
+[Msg] [Dtf] Start transfer to Target Server: Contrato
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Convenio`
+[Msg] [Dtf] Create table: `Convenio`
+[Msg] [Dtf] Get table data for: Convenio
+[Msg] [Dtf] Start transfer to Target Server: Convenio
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Cortenvo`
+[Msg] [Dtf] Create table: `Cortenvo`
+[Msg] [Dtf] Get table data for: Cortenvo
+[Msg] [Dtf] Start transfer to Target Server: Cortenvo
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Cortesfi`
+[Msg] [Dtf] Create table: `Cortesfi`
+[Msg] [Dtf] Get table data for: Cortesfi
+[Msg] [Dtf] Start transfer to Target Server: Cortesfi
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Cuadrillas`
+[Msg] [Dtf] Create table: `Cuadrillas`
+[Msg] [Dtf] Get table data for: Cuadrillas
+[Msg] [Dtf] Start transfer to Target Server: Cuadrillas
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Departamentos`
+[Msg] [Dtf] Create table: `Departamentos`
+[Msg] [Dtf] Get table data for: Departamentos
+[Msg] [Dtf] Start transfer to Target Server: Departamentos
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Dia_pag`
+[Msg] [Dtf] Create table: `Dia_pag`
+[Msg] [Dtf] Get table data for: Dia_pag
+[Msg] [Dtf] Start transfer to Target Server: Dia_pag
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Diametros`
+[Msg] [Dtf] Create table: `Diametros`
+[Msg] [Dtf] Get table data for: Diametros
+[Msg] [Dtf] Start transfer to Target Server: Diametros
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Diapag`
+[Msg] [Dtf] Create table: `Diapag`
+[Msg] [Dtf] Get table data for: Diapag
+[Msg] [Dtf] Start transfer to Target Server: Diapag
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Diversod`
+[Msg] [Dtf] Create table: `Diversod`
+[Msg] [Dtf] Get table data for: Diversod
+[Msg] [Dtf] Start transfer to Target Server: Diversod
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Diversos`
+[Msg] [Dtf] Create table: `Diversos`
+[Msg] [Dtf] Get table data for: Diversos
+[Msg] [Dtf] Start transfer to Target Server: Diversos
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Estatus`
+[Msg] [Dtf] Create table: `Estatus`
+[Msg] [Dtf] Get table data for: Estatus
+[Msg] [Dtf] Start transfer to Target Server: Estatus
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Factant`
+[Msg] [Dtf] Create table: `Factant`
+[Msg] [Dtf] Get table data for: Factant
+[Msg] [Dtf] Start transfer to Target Server: Factant
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Factant_copy`
+[Msg] [Dtf] Create table: `Factant_copy`
+[Msg] [Dtf] Get table data for: Factant_copy
+[Msg] [Dtf] Start transfer to Target Server: Factant_copy
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Facth00`
+[Msg] [Dtf] Create table: `Facth00`
+[Msg] [Dtf] Get table data for: Facth00
+[Msg] [Dtf] Start transfer to Target Server: Facth00
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Finished - Successfully
+--------------------------------------------------
+[Msg] [Dtf] DataTransfer started
+[Msg] [Dtf] Getting tables
+[Msg] [Dtf] Drop table: `Ivapag`
+[Msg] [Dtf] Create table: `Ivapag`
+[Msg] [Dtf] Get table data for: Ivapag
+[Msg] [Dtf] Start transfer to Target Server: Ivapag
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Mediinst`
+[Msg] [Dtf] Create table: `Mediinst`
+[Msg] [Dtf] Get table data for: Mediinst
+[Msg] [Dtf] Start transfer to Target Server: Mediinst
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Medis`
+[Msg] [Dtf] Create table: `Medis`
+[Msg] [Dtf] Get table data for: Medis
+[Msg] [Dtf] Start transfer to Target Server: Medis
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Multas`
+[Msg] [Dtf] Create table: `Multas`
+[Msg] [Dtf] Get table data for: Multas
+[Msg] [Dtf] Start transfer to Target Server: Multas
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Nomaut`
+[Msg] [Dtf] Create table: `Nomaut`
+[Msg] [Dtf] Get table data for: Nomaut
+[Msg] [Dtf] Start transfer to Target Server: Nomaut
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Nuevpad`
+[Msg] [Dtf] Create table: `Nuevpad`
+[Msg] [Dtf] Get table data for: Nuevpad
+[Msg] [Dtf] Start transfer to Target Server: Nuevpad
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Padrmov`
+[Msg] [Dtf] Create table: `Padrmov`
+[Msg] [Dtf] Get table data for: Padrmov
+[Msg] [Dtf] Start transfer to Target Server: Padrmov
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Padron`
+[Msg] [Dtf] Create table: `Padron`
+[Msg] [Dtf] Get table data for: Padron
+[Msg] [Dtf] Start transfer to Target Server: Padron
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Padron1`
+[Msg] [Dtf] Create table: `Padron1`
+[Msg] [Dtf] Get table data for: Padron1
+[Msg] [Dtf] Start transfer to Target Server: Padron1
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Pagares`
+[Msg] [Dtf] Create table: `Pagares`
+[Msg] [Dtf] Get table data for: Pagares
+[Msg] [Dtf] Start transfer to Target Server: Pagares
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Pagcon`
+[Msg] [Dtf] Create table: `Pagcon`
+[Msg] [Dtf] Get table data for: Pagcon
+[Msg] [Dtf] Start transfer to Target Server: Pagcon
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Pagdoc`
+[Msg] [Dtf] Create table: `Pagdoc`
+[Msg] [Dtf] Get table data for: Pagdoc
+[Msg] [Dtf] Start transfer to Target Server: Pagdoc
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Pagtip`
+[Msg] [Dtf] Create table: `Pagtip`
+[Msg] [Dtf] Get table data for: Pagtip
+[Msg] [Dtf] Start transfer to Target Server: Pagtip
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Reccfdi`
+[Msg] [Dtf] Create table: `Reccfdi`
+[Msg] [Dtf] Get table data for: Reccfdi
+[Msg] [Dtf] Start transfer to Target Server: Reccfdi
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Refactu`
+[Msg] [Dtf] Create table: `Refactu`
+[Msg] [Dtf] Get table data for: Refactu
+[Msg] [Dtf] Start transfer to Target Server: Refactu
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Rutas`
+[Msg] [Dtf] Create table: `Rutas`
+[Msg] [Dtf] Get table data for: Rutas
+[Msg] [Dtf] Start transfer to Target Server: Rutas
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Subsidio`
+[Msg] [Dtf] Create table: `Subsidio`
+[Msg] [Dtf] Get table data for: Subsidio
+[Msg] [Dtf] Start transfer to Target Server: Subsidio
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Tarifas`
+[Msg] [Dtf] Create table: `Tarifas`
+[Msg] [Dtf] Get table data for: Tarifas
+[Msg] [Dtf] Start transfer to Target Server: Tarifas
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Tipbon`
+[Msg] [Dtf] Create table: `Tipbon`
+[Msg] [Dtf] Get table data for: Tipbon
+[Msg] [Dtf] Start transfer to Target Server: Tipbon
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Tipocon`
+[Msg] [Dtf] Create table: `Tipocon`
+[Msg] [Dtf] Get table data for: Tipocon
+[Msg] [Dtf] Start transfer to Target Server: Tipocon
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Tipocorte`
+[Msg] [Dtf] Create table: `Tipocorte`
+[Msg] [Dtf] Get table data for: Tipocorte
+[Msg] [Dtf] Start transfer to Target Server: Tipocorte
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Tipotrab`
+[Msg] [Dtf] Create table: `Tipotrab`
+[Msg] [Dtf] Get table data for: Tipotrab
+[Msg] [Dtf] Start transfer to Target Server: Tipotrab
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Trabajadores`
+[Msg] [Dtf] Create table: `Trabajadores`
+[Msg] [Dtf] Get table data for: Trabajadores
+[Msg] [Dtf] Start transfer to Target Server: Trabajadores
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Usuarios`
+[Msg] [Dtf] Create table: `Usuarios`
+[Msg] [Dtf] Get table data for: Usuarios
+[Msg] [Dtf] Start transfer to Target Server: Usuarios
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Varios`
+[Msg] [Dtf] Create table: `Varios`
+[Msg] [Dtf] Get table data for: Varios
+[Msg] [Dtf] Start transfer to Target Server: Varios
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Drop table: `Vencimie`
+[Msg] [Dtf] Create table: `Vencimie`
+[Msg] [Dtf] Get table data for: Vencimie
+[Msg] [Dtf] Start transfer to Target Server: Vencimie
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Set auto increment value: Medis
+[Msg] [Dtf] Set auto increment value: Padron1
+[Msg] [Dtf] Set auto increment value: Pagcon
+[Msg] [Dtf] Set auto increment value: Pagtip
+[Msg] [Dtf] Set auto increment value: Tipocorte
+[Msg] [Dtf] Set auto increment value: Tipotrab
+[Msg] [Dtf] Set auto increment value: Trabajadores
+[Msg] [Dtf] Set auto increment value: Usuarios
+[Msg] [Dtf] Finished - Successfully
+--------------------------------------------------
+[Msg] [Dtf] DataTransfer started
+[Msg] [Dtf] Getting tables
+[Msg] [Dtf] Drop table: `Lecturas`
+[Msg] [Dtf] Create table: `Lecturas`
+[Msg] [Dtf] Get table data for: Lecturas
+[Msg] [Dtf] Start transfer to Target Server: Lecturas
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Err] [Dtf] 1153 - Got a packet bigger than 'max_allowed_packet' bytes With statement: INSERT INTO `Lecturas` VALUES ('345', '2120', '264', '283', '302', '321', '340', '359', '0', '169', '188', '0', '226', '245', '', '', '', '', '', '', 'J', '', '', '', '', '', '11', '1998-09-30', 'JSP', '1997-12-29', '1998-01-27', '1998-02-27', '1998-03-24', '1998-04-27', '1998-05-26', '1998-06-24', '1997-07-28', '1997-08-29', '1998-09-23', '1997-10-24', '1997-11-26', 0x312E2D30372D30332D3936205345204749524F204F5244454E2041204D45445320333931340D0A322E2D31372D30342D3936204D4544203834373932204C2D302053492046554E43494F4E41204C4C4156452044452042414E5155455441204345525241444120582041444555444F204E4F205449454E454E20414755410A202020545652564700000100000000000000020000010000000000000002000001000000000000000200000100000000000000020000010000000000000002000001000000000000000200000100000000000000020000010000000000000002000001000000000000000200000000000011227802FC000000312E2D203231204449432E32303035204C4543542E3137393120455320554E2054455252454E4F20534F4C4F20534520494755414C4F204C4543542E2043524D4A4D530000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000400F8302000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000), ('345', '2122', '4508', '4508', '4508', '4508', '4508', '4508', '4508', '4508', '4508', '4508', '4508', '4508', '', '', '', '', '', '', '', '', '', '', '', '', '9', '2007-09-04', 'ARC', '2002-12-26', '2003-01-24', '2003-02-26', '2003-03-26', '2003-04-24', '2003-05-23', '2003-06-24', '2003-07-23', '2003-08-24', '2002-09-24', '2002-10-25', '2002-11-25', 0x312E2D31302D4142522D303120534520544F4D4F204C4543542E34323333204D45442E53492046554E432E5820494E53502E5345204C4520434F4252414E2032334D54532031392D4142522D3031200D0A322E2D31342D30352D30322D4C2D343432354D545320534520434845434F2045535445204D4544205920534920455354412054524142414A414E444F204249454E20454E204C4954524F53204E4F205245504F525441204655474120455320554E412043415341204445204D41444552412059204445204D4154455249414C204E4F20534520454E434F4E54524F20414C205553554152494F20454E2043415341202031362D30352D303220204D56470D0A332E2D382D4F43542D3032204D45442E53492046554E432E4C412043415341204553544120534F4C41204E4F2045535441204841424954414441204441544F5320504F5220454C20564543494E4F2044454C20444F4D4943494C494F203430313120534520544F4D4F204C4543542E34353038205820494E53502E534520494755414C41204C41204C45435434353038202248222032302D4F43542D3032200D0A342E2D392D4142522D3033204E4F205345205055444F2043484543415220534920454C204D45442E46554E432E4F204E4F20534920534520505545444520544F4D4152204C4543542E343530382043415341204445534841424954414441205820494E530D0A534520494755414C41204C41204C4543542E343530382031362D4142522D30330D0A352E2D312D5345502D3033204F5244454E203131313735372053452053555350454E44494F20454C20534552564943494F20504F522042414A412054454D504F52414C2031322D5345502D30332046434F2E56414C44455A200D0A362E2D4E4F20484159204D45442E20454E20454C2023343031332C455320544F4D4120444520332F342C455320434153410D0A4445204D41444552412C205345525620434F525441444F2C4445534445204841434520414C52454445444F522044452031300D0A41A54F532C434F4D454E544F20564543494E4F2044452041204C41444F2C45535441204445534820444553444520484143450D0A31352041A54F532E0D0A454C204D454449444F52204445204C41204741534F4C494E45524120455320415A54454341202330353030343632392C0D0A434F4E204C4543542E3739312C53492046554E43494F4E412C205045524F204E4F20534520505545444520544F4D4152200D0A4C4543542C205449454E4520554E41205441504120444520434F4E435245544F204D5559205045534144412C50415241200D0A554E4120534F4C4120504552534F4E412E2020204C53542053204520434845434F204D4544204E4F2053414C494F204E4144492045202030312F30382F323031333031330D2043415341204445534841424954414441202030342F30362F3230313330303030333633353330333033373334333033303337333733303330303030303030303030303030303030303030303030303030303030303030303030313030303030303030303030303030443039344432303530303030303030304230384644323035303030303030303042
+[Err] [Dtf] Finished - Unsuccessfully
+--------------------------------------------------
+[Msg] [Dtf] DataTransfer started
+[Msg] [Dtf] Getting tables
+[Msg] [Dtf] Drop table: `Lecturas2`
+[Msg] [Dtf] Create table: `Lecturas2`
+[Msg] [Dtf] Get table data for: Lecturas2
+[Msg] [Dtf] Start transfer to Target Server: Lecturas2
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Msg] [Dtf] Finished - Successfully
+--------------------------------------------------
+[Msg] [Dtf] DataTransfer started
+[Msg] [Dtf] Getting tables
+[Msg] [Dtf] Drop table: `Lecturas`
+[Msg] [Dtf] Create table: `Lecturas`
+[Msg] [Dtf] Get table data for: Lecturas
+[Msg] [Dtf] Start transfer to Target Server: Lecturas
+[Msg] [Dtf] Begin transaction on target server
+[Msg] [Dtf] End transaction on target server
+[Err] [Dtf] 1153 - Got a packet bigger than 'max_allowed_packet' bytes With statement: INSERT INTO `Lecturas` VALUES ('345', '2122', '4508', '4508', '4508', '4508', '4508', '4508', '4508', '4508', '4508', '4508', '4508', '4508', '', '', '', '', '', '', '', '', '', '', '', '', '9', '2007-09-04', 'ARC', '2002-12-26', '2003-01-24', '2003-02-26', '2003-03-26', '2003-04-24', '2003-05-23', '2003-06-24', '2003-07-23', '2003-08-24', '2002-09-24', '2002-10-25', '2002-11-25', 0x312E2D31302D4142522D303120534520544F4D4F204C4543542E34323333204D45442E53492046554E432E5820494E53502E5345204C4520434F4252414E2032334D54532031392D4142522D3031200D0A322E2D31342D30352D30322D4C2D343432354D545320534520434845434F2045535445204D4544205920534920455354412054524142414A414E444F204249454E20454E204C4954524F53204E4F205245504F525441204655474120455320554E412043415341204445204D41444552412059204445204D4154455249414C204E4F20534520454E434F4E54524F20414C205553554152494F20454E2043415341202031362D30352D303220204D56470D0A332E2D382D4F43542D3032204D45442E53492046554E432E4C412043415341204553544120534F4C41204E4F2045535441204841424954414441204441544F5320504F5220454C20564543494E4F2044454C20444F4D4943494C494F203430313120534520544F4D4F204C4543542E34353038205820494E53502E534520494755414C41204C41204C45435434353038202248222032302D4F43542D3032200D0A342E2D392D4142522D3033204E4F205345205055444F2043484543415220534920454C204D45442E46554E432E4F204E4F20534920534520505545444520544F4D4152204C4543542E343530382043415341204445534841424954414441205820494E530D0A534520494755414C41204C41204C4543542E343530382031362D4142522D30330D0A352E2D312D5345502D3033204F5244454E203131313735372053452053555350454E44494F20454C20534552564943494F20504F522042414A412054454D504F52414C2031322D5345502D30332046434F2E56414C44455A200D0A362E2D4E4F20484159204D45442E20454E20454C2023343031332C455320544F4D4120444520332F342C455320434153410D0A4445204D41444552412C205345525620434F525441444F2C4445534445204841434520414C52454445444F522044452031300D0A41A54F532C434F4D454E544F20564543494E4F2044452041204C41444F2C45535441204445534820444553444520484143450D0A31352041A54F532E0D0A454C204D454449444F52204445204C41204741534F4C494E45524120455320415A54454341202330353030343632392C0D0A434F4E204C4543542E3739312C53492046554E43494F4E412C205045524F204E4F20534520505545444520544F4D4152200D0A4C4543542C205449454E4520554E41205441504120444520434F4E435245544F204D5559205045534144412C50415241200D0A554E4120534F4C4120504552534F4E412E2020204C53542053204520434845434F204D4544204E4F2053414C494F204E4144492045202030312F30382F323031333031330D2043415341204445534841424954414441202030342F30362F3230313330303030333633353330333033373334333033303337333733303330303030303030303030303030303030303030303030303030303030303030303030313030303030303030303030303030443039344432303530303030303030304230384644323035303030303030303042303734443230353030303030303030313037364432303530303030303030303130393244323035303030303030303046303833443230353030303030303030443037444432303530303030303030303330364244323035303030303030303046303546443230353030303030303030443036424432303530303030303030303130383244323035303030303030303031303846443230353030303030303030443038304432303530303030303030303530423144323035303030303030303044303741443230353030303030303030423037454432303530303030303030303130383444323035303030303030303046304234443230353030303030303030313037324432303530303030303030304230364644323035303030303030303031303730443230353030303030303030373038344432303530303030303030303930363444323035303030303030303039303946443230353030303030303030333035464432303530303030303030303530383044323035303030303030303033304235443230353030303030303030443039334432303530303030303030304630374644323035303030303030303046303630443230353030303030303030443037314432303530303030303030303930393044323035303030303030303037304241443230353030303030303030373037414432303530303030303030303530393644323035303030303030303039304146443230353030303030303030423042424432303530303030303030303930383044323035303030303030303033303745443230353030303030303030393036414432303530303030303030303730424344323035303030303030303039303845443230353330303033313030333
+[Err] [Dtf] Finished - Unsuccessfully
+--------------------------------------------------
+[Msg] [Dtf] DataTransfer started
+[Msg] [Dtf] Getting tables
+[Msg] [Dtf] Drop table: `Lecturas`
+[Msg] [Dtf] Create table: `Lecturas`
+[Msg] [Dtf] Get table data for: Lecturas
+[Msg] [Dtf] Start transfer to Target Server: Lecturas
+[Msg] [Dtf] Begin transaction on target server
+[Err] [Dtf] 1153 - Got a packet bigger than 'max_allowed_packet' bytes With statement: INSERT INTO `Lecturas` VALUES ('345', '2122', '4508', '4508', '4508', '4508', '4508', '4508', '4508', '4508', '4508', '4508', '4508', '4508', '', '', '', '', '', '', '', '', '', '', '', '', '9', '2007-09-04', 'ARC', '2002-12-26', '2003-01-24', '2003-02-26', '2003-03-26', '2003-04-24', '2003-05-23', '2003-06-24', '2003-07-23', '2003-08-24', '2002-09-24', '2002-10-25', '2002-11-25', 0x312E2D31302D4142522D303120534520544F4D4F204C4543542E34323333204D45442E53492046554E432E5820494E53502E5345204C4520434F4252414E2032334D54532031392D4142522D3031200D0A322E2D31342D30352D30322D4C2D343432354D545320534520434845434F2045535445204D4544205920534920455354412054524142414A414E444F204249454E20454E204C4954524F53204E4F205245504F525441204655474120455320554E412043415341204445204D41444552412059204445204D4154455249414C204E4F20534520454E434F4E54524F20414C205553554152494F20454E2043415341202031362D30352D303220204D56470D0A332E2D382D4F43542D3032204D45442E53492046554E432E4C412043415341204553544120534F4C41204E4F2045535441204841424954414441204441544F5320504F5220454C20564543494E4F2044454C20444F4D4943494C494F203430313120534520544F4D4F204C4543542E34353038205820494E53502E534520494755414C41204C41204C45435434353038202248222032302D4F43542D3032200D0A342E2D392D4142522D3033204E4F205345205055444F2043484543415220534920454C204D45442E46554E432E4F204E4F20534920534520505545444520544F4D4152204C4543542E343530382043415341204445534841424954414441205820494E530D0A534520494755414C41204C41204C4543542E343530382031362D4142522D30330D0A352E2D312D5345502D3033204F5244454E203131313735372053452053555350454E44494F20454C20534552564943494F20504F522042414A412054454D504F52414C2031322D5345502D30332046434F2E56414C44455A200D0A362E2D4E4F20484159204D45442E20454E20454C2023343031332C455320544F4D4120444520332F342C455320434153410D0A4445204D41444552412C205345525620434F525441444F2C4445534445204841434520414C52454445444F522044452031300D0A41A54F532C434F4D454E544F20564543494E4F2044452041204C41444F2C45535441204445534820444553444520484143450D0A31352041A54F532E0D0A454C204D454449444F52204445204C41204741534F4C494E45524120455320415A54454341202330353030343632392C0D0A434F4E204C4543542E3739312C53492046554E43494F4E412C205045524F204E4F20534520505545444520544F4D4152200D0A4C4543542C205449454E4520554E41205441504120444520434F4E435245544F204D5559205045534144412C50415241200D0A554E4120534F4C4120504552534F4E412E2020204C53542053204520434845434F204D4544204E4F2053414C494F204E4144492045202030312F30382F323031333031330D2043415341204445534841424954414441202030342F30362F3230313330303030333633353330333033373334333033303337333733303330303030303030303030303030303030303030303030303030303030303030303030313030303030303030303030303030443039344432303530303030303030304230384644323035303030303030303042303734443230353030303030303030313037364432303530303030303030303130393244323035303030303030303046303833443230353030303030303030443037444432303530303030303030303330364244323035303030303030303046303546443230353030303030303030443036424432303530303030303030303130383244323035303030303030303031303846443230353030303030303030443038304432303530303030303030303530423144323035303030303030303044303741443230353030303030303030423037454432303530303030303030303130383444323035303030303030303046304234443230353030303030303030313037324432303530303030303030304230364644323035303030303030303031303730443230353030303030303030373038344432303530303030303030303930363444323035303030303030303039303946443230353030303030303030333035464432303530303030303030303530383044323035303030303030303033304235443230353030303030303030443039334432303530303030303030304630374644323035303030303030303046303630443230353030303030303030443037314432303530303030303030303930393044323035303030303030303037304241443230353030303030303030373037414432303530303030303030303530393644323035303030303030303039304146443230353030303030303030423042424432303530303030303030303930383044323035303030303030303033303745443230353030303030303030393036414432303530303030303030303730424344323035303030303030303039303845443230353330303033313030333
+[Err] [Dtf] 1153 - Got a packet bigger than 'max_allowed_packet' bytes With statement: INSERT INTO `Lecturas` VALUES ('395', '2430', '6124', '6155', '6186', '6217', '6248', '0', '5938', '5969', '6000', '6031', '6062', '6093', '', '', '', '', '', 'D', '', '', '', '', '', '', '3', '2014-02-27', 'BNC', '2014-01-10', '2014-02-12', '2014-03-11', '2014-04-07', '2014-05-12', '2014-06-08', '2013-07-04', '2013-08-07', '2013-09-05', '2013-10-11', '2013-11-07', '2013-12-11', 0x312E2D31322D4E4F562D303120534F4C414D454E544520534520544F4D4F204C4543542E32303637205820494E53502E534520434F4252414E2038334D54532031392D4E4F562D3031200D0A322E2D382D4A554C2D303220534520524551554945524520534143415220454C204D45442E53492046554E432E4E4F205245504F525441204655474120544F4D4120414C494D454E544120554E412043415341204445204D4154455249414C205920554E412043415349544120414C20464F4E444F204A415244494E205045515545A54F204E4F20534520454E434F4E54524F205553554152494F205820494E53502E534520434F4252414E2038354D545320454C20434F4E53554D4F2031352D41474F2D3032200D0A332E2D32312D454E452D3034204D45442E53492046554E432E4E4F204655474153204E4F204A415244494E203120504552534F4E4120534520544F4D4F204C4543542E33333232205820494E53502E534520434F42524120364D545320434F4E53554D4F2032352D454E452D3034200D0A342E2D32332F4E4F562F323030342053492046554E43494F4E41204E4F204655474153204C454354203334323020310D0A4341534120534F4C41204E4144414D4153204C4F532046494E45532044452053454D414E412059205345204C45200D0A434F42524F2033343037205653203334323020202030362F4449432F323030342020564C420D0A352E2D372F616272696C2F303620746F6D612079206D65642E616465206E74726F20736520726571756965726520736163617220656C206D656469646F727B322063617361737D202030372F30342F323030360D0A362E2D32342D4142522D3036204E4F20534520505545444F20544F4D4152204C4543542E534520524551554945524520534143415220454C204D45442E455320554E41204341534120444520554E20534F4C4F205049534F204E4F205345204C4F43414C495A4F20414C205553554152494F20454E204C412043415341205820494E53502E534520434F425241204C4120434C415645202247222032382D4142522D30360D20342F736570742F3037206361736120686162697461646120746F6D612079206D65642E6164656E74726F2073652061706C2069636120636C6176652247222E202030342F30392F323030370D20322F6F7463756272652F303720746F6D6120332F342E202030322F31302F323030370D20746F6D6120636F6E6563746164612064697265637461207961206E6F20686179206D65642E202030352F30332F323030380D20746F6D6120636F6E65637461646120646972656374612E202030322F30342F323030380D206D65642E7961207265696E7374616C61646F207065726F2065737461206164656E74726F206E6F20736520707565646520746F6D6172206C6563747572612073652061706C696361202247222E202030322F30392F323030380D204D45442E465545524120444520534552564943494F202030342F31312F323030390D203339352D3234323020746F6D6120332F3420636173612064652032207069736F7320636F6E20657363616C6572612078206675657261207573756172696F20726567616E646F206D65646961206361616C6C6520696E73742E6D65642E2A2A202031312F31322F323031330D204D616E75656C206163756E6120206F206172742E3132332031363437206F20313634392063756172746F73206465207265206E74612038283729657374616E206465736162697461646F73203120796120686162697461646120746F6D616E6F20766963202031302F30312F323031340D206172746963756C6F2031323320232031363439283136343729206F204D616E75656C206163756E6120313634392831363437292079612068617928382963756172746F20736F6C6F20312068612062697461646F20746F6D61206E6F2076696369626C652A2A202031322F30322F32303134300033003600300030003300310030003000330036003000300034003300300030003300360030003000330035003000300033003200300030003300300030003000330037003000300033003500300030003300370030003000330033003000300033003700300030003300350030003000330036003000300033003100300030003300370030003000330032003000300033003600300030003300390030003000330036003000300034003600300030003300320030003000340035003000300033003200300030003300300030003000330032003000300033003000300030003300330030003000330032003000300033003300300030003300380030003000330032003000300034003600300030003300330030003000330030003000300033003300300030003300390030003000330032003000300034003600300030003300330030003000330032003000300033003300300030003300300030003000330033003000300033003100300030003
+[Err] [Dtf] 1153 - Got a packet bigger than 'max_allowed_packet' bytes With statement: INSERT INTO `Lecturas` VALUES ('542', '1255', '4812', '0', '4502', '4533', '4564', '4595', '4626', '4657', '4688', '4719', '4750', '4781', '', '', '', '', '', '', '', '', '', '', '', '', '6', '2009-05-08', 'POO', '2010-12-27', '2011-02-01', '2010-03-01', '2010-03-26', '2010-04-30', '2010-05-26', '2010-06-28', '2010-07-28', '2010-08-27', '2010-09-28', '2010-10-28', '2010-11-30', 0x434F525445532F2F42414C444E4547524F20312F322F31322043415341204841424954414441205420312F3220544F4D41204E4F2056495349424C45202F2F45455A2E00680061006E00200027006D00610078005F0061006C006C006F007700650064005F007000610063006B006500740027002000620079007400650073000000000000000000A0957C02B00402000100000042000000440065006C006500740065003A002000640065006C0065007400650020007200650063006F00720064007300200069006E002000640065007300740069006E006100740069006F006E002000740068006100740020006D0061007400630068002000720065006300), ('542', '1380', '659', '682', '705', '728', '751', '0', '533', '544', '567', '590', '613', '636', '', '', '', '', '', 'G', '', '', '', '', '', '', '2', '2014-02-06', 'POO', '2013-12-31', '2014-01-29', '2014-02-28', '2014-03-30', '2014-04-25', '2014-05-27', '2013-06-28', '2013-07-29', '2013-08-28', '2013-09-30', '2013-10-30', '2013-12-02', 0x312E2D6D656469646F7220332E34202032382F30362F323030360D0A322E2D6E756D65726F206465206D656469646F7220303030313035206C65632033202032332F30322F323030372E0D0A332E2D31352D5345502D3038204C4543542E5245504F525441204C41204C4543542E42414A412058204F5244454E2044454C2043502E4445204C41204352555A20534520434F4252412031314D5453204348454341522050524F584D4553204C495A0D0A342E2D32302F31302F30382053452041504C494341204C4120434C4156452022472220434845434152204C4543542E2050524F58494D4F204D45532E2020204C5543592E0D0A352E2D31392F31312F303820454E204241534520414C205245504F5254452044454C204C454354555249535441205345204143542E204C4543542E20454E20313230205653203132363D364D332E202020204C5543592E0D0A206E2F6D203037303030313035202032372F30352F323030390D0A434F525445532F2F4D415254494E204D4F52454E4F2031302F30312F32303131205345204E4F54494649434F203A204E43430D0A206C6563206D656E6F72206D656469646F722073692066756369206F6E61202033302F31302F323031330D0A362E2D32332F30312F3230313420494E53502E204C4543542E2035353720544F4D41205355525445204341534120434F4C4F5220414D4152494C4C4F444520414655455241204E4F205345205645204C41204C4543542E205345205245515549455245205041534152205345204558504C49434F20414C205553554152494F20515545204C4F20504F4E4741205649534953424C452C2051554544414E444F204445204143554552444F204841424954414E203420504552534F4E41532E20494E53504543542E20414C424552544F20455350494E4F5A412E202020204C5543592E33003600300030003300310030003000340032003000300033003000300030003300300030003000330030003000300033003000300030003000300030003000300030003000300030003000300032003000300030003000440030004600340044003000300035004200300030003400300032003000300030003100300030003000300030003000350045003000300030003000300030003500330034003500320030003400330034004600350032003500320034003900340037003400350032003000340043003400350034003300350034003500350035003200340031003500330032003000330032003300350033003100320044003300320033003700330034003300440033003200330033003400440035003400350033003200450034003100350035003500340034004600350032003400390035004100340031003200300034003500340043003200300034003300320045003500300032004500300044003000410034003700350035003400310034004100340031003500320034003400340046003200300033003200330032003200440033003100330032003200440033003900330035003000440032003000370034003600460036004400360031003200300036003400360035003200300033003300320046003300340032003000320030003300320033003800320046003300300033003300320046003300320033003000330031003300320036004600300030003600340030003000370035003000300036004300300030003600350030003000320030003000300032003700300030003600450030003000360031003000300037003600300030003600390030003000360033003000300036003100300030003700340030003000320045003000300036003500300030003700380030003000360035003000300032003700300030003200450000003535303034433030344330303243
+[Err] [Dtf] 1153 - Got a packet bigger than 'max_allowed_packet' bytes With statement: INSERT INTO `Lecturas` VALUES ('211', '2180', '2036', '2048', '2060', '2072', '2084', '1950', '1961', '1972', '1987', '1999', '2011', '2024', '', '', '', '', '', '', '', '', '', '', '', '', '6', '2014-05-30', 'POO', '2014-01-22', '2014-02-24', '2014-03-24', '2014-04-22', '2014-05-22', '2013-06-19', '2013-07-19', '2013-08-20', '2013-09-19', '2013-10-17', '2013-11-22', '2013-12-20', 0x312E2D32362F4449432F393720494E53502E3238383635204D45442E39353438204C2F3138343820434153412048414249544143494F4E204D45442E54524142414A41204249454E204E4F205449454E452046554741203520504552534F4E415320504F5220494E53502E5245414C495A414441205345204C4520434F4252414E20313834302041203138343820352F454E452F3938200D0A322E2D32372D30372D323030302D4C2D323036314D5453204D45442053492046554E43494F4E41204E4F2045535441204D415243414E444F204655474120455320554E412043415341204445204D4154455249414C20434F4C4F5220414D4152492D204C4C412E534520434F42524152412033334D5453202030342D30382D323030300D0A332E2D332D4D5A4F2D3033204D45442E5941204E4F2046554E432E53452052455155494552452043414D42494152203520504552534F4E415320554E412043415341204E4F204A415244494E20534520544F4D4F204C4543542E33383432205820494E53502E534520434F4252412033354D54532022432220332D4D5A4F2D30330D0A342E2D43414E4441444F202032302F30382F323030360D0A352E2D792063616E6461646F20656E20706F72746F6E202032332F30312F323030370D0A362E2D696E7370202031362F31322F323031300D0A372E2D30342F30312F313120696E73702E206C6563742E203137373720657320756E612063617361206465206D6174657269616C2064652032207069736F7320206861626974616E2032206164756C746F73206D65642E2073692066756E63696F6E616E206E6F206675676173206D757920706F63612070726573696F6E2E20696E73706563742E206A65737573207472656A6F2E0D0A382E2D434F525445532F2F414C424552544F20455350494E4F5A412030362F31322F32303130205345204E4F54494649434F2E2E5448430D0A392E2D494E5350454343494F4E2043484543415220444F4D4943494C20494F204E4F205449454E4520534552564943494F202031342F30392F323031310D0A31302E2D31352F30392F3230313120494E53502E20544F4D4120414C494D454E544120554E412043415341204445204D4154455249414C2053494E204A415244494E20455320544F4D41204C4152474120504F52204E4F204841424552204C494E4541204E4F205449454E452041475541204445204645422E2044454C20323031312044494345205553554152494F20515545205349204553544120484142495441444F2E20494E53504543542E204A45535553205452454A4F20532E202020204C5543592E0D0A20636F727461646F202032362F30382F323031310D0A20636F727461646F20696E7370202030382F31302F323031320D0A207961207469656E652061677561202031342F30322F323031320D0A31312E2D31302F30342F32303132204C45435455524120414E544552494F5220434C41564520224A22205345204143542E204C4543542E20454E203137373420565320313738353D31314D33205920434845434152204C4543542E2050524F58494D4F204D45532E20494E442E20444520432E502E205041424C4F2043415A41524553202020204C5543592E20494E442E20444520432E502E204A55414E204445204C41204352555A2E205345204143542E204C4543542E20454E20302056532031312E2020204C5543592E3237303032433030333030303738303030303030343530303334303034363030333030303330303033303030333030303239303030303030323930303030303044313944443030354230303430323030303030303030303033453031303030303238303032373030333730303336303033333030323730303243303032373030333130303331303033373030333030303237303032433030323730303331303033333030333130303330303032373030324330303237303033313030333330303331303033383030323730303243303032373030333130303333303033323030333730303237303032433030323730303331303033333030333330303338303032373030324330303237303033313030333330303334303033373030323730303243303032373030333130303332303033333030333230303237303032433030323730303331303033323030333430303334303032373030324330303237303033313030333230303335303033373030323730303243303032373030333130303332303033363030333930303237303032433030323730303331303033323030333830303332303032373030324330303237303033313030333230303339303033313030323730303243303032373030333130303332303033393030333930303237303032433030323730303237303032433030323730303237303032433030323730303237303032433030323730303237303032433030323730303237303032433030323730303237303032433030323
+[Err] [Dtf] 1153 - Got a packet bigger than 'max_allowed_packet' bytes With statement: INSERT INTO `Lecturas` VALUES ('045', '1500', '1796', '1796', '1796', '1827', '1837', '0', '1796', '1796', '1796', '1796', '1796', '1796', '', '', '', '', '', '', '', '', '', '', '', '', '4', '2010-03-17', 'BNC', '2009-12-28', '2010-01-24', '2010-02-28', '2010-03-28', '2010-04-24', '2010-05-29', '2009-06-29', '2009-07-28', '2009-08-27', '2009-09-28', '2009-10-27', '2009-11-28', 0x20636F727461646F202063686563617220646520646F6E6465206167617272612061677561202032382F30392F323030390D0A312E2D32302D4F43542D32303039205345204C4520494755414C4F204C41204C45435420434F4E532030204155542043502E0D0A43415A415245532020564C420D0A20434F525441444F2E5920484142495441444F20322E434153412053202032372F31302F323030390D0A20434F525441444F204E4F2E4D454449444F52202032382F31312F323030390D0A20434F525441444F202032382F31322F323030390D0A5345525620434F525441444F2031312D4645422D3230313020564C0D0A20524543202032382F30322F323031300D0A20524543202032382F30332F323031300D0A20524543202032342F30342F323031300D0A20434F525441444F202032392F30352F323031300D0A322E2D30312D4645422D3230313120484142495441444F205245434F4E45435441444F2020202020564C0D0A332E2D32342D4D41594F2D3230313120544F4D4120444520312F322053494E204D454449444F5220534F4E203320434153415320434849434153204445204D4154455249414C2053494E204A415244494E20455354414E2048414249544144415320454E20544F54414C20564956454E2034204144554C544F5320592035204E49A54F5320494E5350204A45535553205452454A4F20202031362D4A554E2D323031312020564C420D0A342E2D32312D4A554E2D3230313120534F4E2033204341534153204445204D4154455249414C2053494E204A415244494E0D0A4E4F20484159204D454449444F5220564956454E2034204144554C544F5320592035204E49A54F5320494E5350204A45535553205452454A4F20564C420D0A434F525445532F4D415254494E2031332F322F313420534520434552524F204C4C41564520534520534547554554454F2050564320312F3220034A455353595543592E0D204D454420454E5655454C544F202032382F30312F323031343835373930323739303130303030334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334645323830413033463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346453238304130334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346000033463346334633463346334633463346334633460000303034453030353530303443303034433030324330303445000030300000300000003030000000000000000031A35403B004020000000000AB020000312E2D30342D4D41525A4F2D39372D4F5244454E2D31383038312D494E5354414C4152204D454449444F520D0A534520494E5354414C4F204D454449444F522D363534342D4C2D302D465243522D0D0A322E2D30392D30342D393720494E53502E3231313632204D4544203139303039204C2D313639204D45442053492046554E43494F4E412050524553494F4E2044452041475541204E4F524D414C20455320554E412043415341204445204D4154455249414C2053494E2050494E54415220504F52204F5244454E2044454C20432E502E5041424C4F2043415A4152455320534520434F52524947452023204445204D454449444F522F4956450D0A20636F727265676972206C656374757261202032312F30322F323030372E0D0A434F525445532F2F43455341522056414C44455A20362F
+[Err] [Dtf] 1153 - Got a packet bigger than 'max_allowed_packet' bytes With statement: INSERT INTO `Lecturas` VALUES ('485', '1260', '188', '198', '208', '218', '230', '50', '80', '102', '122', '158', '170', '181', '', '', '', '', '', '', '', '', '', '', '', '', '3', '2013-03-08', 'MMM', '2014-01-22', '2014-02-19', '2014-03-22', '2014-04-16', '2014-05-17', '2013-06-23', '2013-07-19', '2013-08-20', '2013-09-20', '2013-10-22', '2013-11-18', '2013-12-24', 0x43554152544F532044452052454E544120484143455220494E5350454343494F4E204120464F4E444F202032322F30362F323030380D0A736F6E20342063756172546F732064652072656E7461203220657374616E206F63757061646F732032322F30372F323030380D0A6E2F6D20203934303333313331202031392F30352F323030390D0A3438352D313235302044495649444945524F4E2054455252454E4F20434845434152205349204D49534D4120544F4D4120414C494D454E5441204C4153203220504152544553202031392F31312F323030390D0A736F6E2035206361736173202031392F30392F323031310D0A6368656361722061666F6E646F2073692066756E63696F6E6120656C206D656469646F72202032342F30312F323031320D0A312E2D30312F30322F313220494E53502E434F4E205242502E204C4543542E33363133204D454449444F522053492046554E43494F4E41204E4F204D41524341204655474120534920534520505545444520544F4D4152204C41204C4543545552412C544F4D4120414C494D454E5441203320444550415254414D454E544F53205045524F204E414441204D41532031204553544120484142495441444F205920564956454E203320504552534F4E4153204E4F20484159204A415244494E20554E4F204445204C4F5320444550415254414D454E544F53204C4F2044455252554D4241524F4E2059205155454441524F4E203220444550415254414D454E544F5320494E53502E4755535441564F20544F5252455320544A56562E2D0D0A3438352D31323830206361736173207920706174696F20636F6E20616C76657263612072656E7461626C6520706F6E6572206120636F6D65726369616C207920706F6E6572206769726F207920706F6E6572206D656469646F722032332F30352F323031320D0A3438352D3132383020706F6E6572206D656469646F72206F2073756269722070726F6D6564696F2032302F30372F323031320D0A3438352D3132383020706F6E6572206D656469646F72202032312F30382F323031320D0A31332F31302F3132206C6563742E333732330D0A4341534153205920504154494F20434F4E20414C56455243412050415241204556454E544F53202031372F31312F323031320D0A322E2D30372F31322F31322053452048495A4F20494E53502E20544F4D4120535552544520504154494F20434F4E20414C42455243412C534520434845434F204D454449444F522053492046554E43494F4E41204C4120414C4245524341204C41204C4C454E414E20434F4E2050495041204C4543542E3337333920494E53502E414C424552544F20455350494E4F5A4120544A56562E2D0D0A332E2D31302F31322F31322041504C4943415220434C41564520224322204F52442E432E502E5041424C4F2043415A415245532020202020544A56562E2D0D0A6D2F6E203132303232363931202031352F30322F3230313343544F52204D4F4E54454D41594F52202F204A4A47502E0D0A362E2D31392D31312D31302D534520434F425241524120434C4156452043204C454354205245414C2032343937205820494E442043502043415A4152455320204D564700300037003800300030003600350030003000320037003000300032004500300030003200300030003000350032003000300036003500300030003600310030003000360034003000300032003000300030003600460030003000360036003000300032003000300030003600310030003000360034003000300036003400300030003700320030003000360035003000300037003300300030003700330030003000320030003000300033003000300030003300350030003000340035003000300033003000300030003300300030003000330030003000300033003000300030003300300030003000300030003000300030004100300030003000300030003000300030003000310030003000300030003000300030003000380030003800390037003800300032004200300030003400300032003000300030003100300030003000300030003000360036003000300030003000300030003300310032004500320044003300320033003800320044003400340034003900340033003200440033003200330030003300310033003200320030003400330034004600340032003500320034003100350032003200300033003200330033003200300034004400350034003500330032003000350038003200300033003300320030003400440034003500350033003400350035003300320030003500390032003000340043003400310032003000320032003400340032003200300044003000410034003500340045003200300034004300340046003200300035003100350035003400350032003000340043003400350032003000340039003400450035003300350034003400310034004300340031003400450032003000340035003400430032003
+[Err] [Dtf] 1153 - Got a packet bigger than 'max_allowed_packet' bytes With statement: INSERT INTO `Lecturas` VALUES ('560', '2705', '3758', '3758', '3758', '3758', '3758', '0', '3758', '3758', '3758', '3758', '3758', '3758', '', '', 'H', '', '', 'H', '', '', '', '', '', '', '6', '2014-05-15', 'MMM', '2013-12-30', '2014-01-27', '2014-02-27', '2014-03-28', '2014-04-25', '2014-05-26', '2013-06-28', '2013-07-25', '2013-08-27', '2013-09-27', '2013-10-29', '2013-12-02', 0x7361636172206D65642E202032352F31312F323030390D0A434F5254452F2F484543544F522047555449455252455A2031362F30332F323031312020544F4D4120454E20454C20494E544552494F52203A4A410D0A434F525445532F2F4D415254494E204D4F52454E4F2031382F30342F3230313120544F4D4120454E20454C20494E544552494F52202053452044454A4F204E4F54494649434143494F4E204252454E44410D0A312E2D30352F30382F3131204749524F3A43415341204445534841424954414441204143542E4C4543542E33353937205920434F425241522030204D33204F52442E432E502E5041424C4F2043415A4152455320202020202020544A56562E2D0D0A534920484142495441444F2E202032362F30382F323031310D0A64655368616269742E6365727261646F2E202032372F30332F323031320D0A434F525445532F2F504544524F5020455350494E4F2031352F30322F32303132205345572052455449524F204C4C41564520444520474C4F424F202F2A4A4D4D30303030303030303030303041303030303030303030313030303030303030343142363738303244373030303030303346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334645323830413033463346334633463346334633463346334633463346453238304130334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334633463346334600000000000000000000B1498304E82B6F0000000000000000000000000000000000000000000000000008000000000000000100000000000000E80E4400F80E4400000000006C9E6F00904683047A000000220000002C01000017000000A24A0800000000000000000100000000000001030000000000000000050000FF00000000000000000000F4FF0000000000000000F4FFFFFF100001000000000000000000000000000000000000000000000000000000000008915300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000100000024768302000000000000000000000000100100002D00000000000000000000007A000000220000002C01000017000000000000000000000000000F020100000001000000000000000000000000000000000000000000000003000000000000000000000000000000000000000000000000000000010100000001010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000A845C57200000000820425000100000000000000000000000000000090950705000000000800000000000000FFFFFFFF0000000000000000000000000000000000000000000000000000000000000000000000001000000018AEF90480078C0000000000220041002B9ECA720000000000000000FFFFFFFF7504250068042500000000000100000000000000000000000000000000000000000000000000000000000000), ('310', '0930', '7231', '7251', '7272', '7287', '7308', '7320', '7122', '7137', '7150', '7170', '7186', '7211', '', '', '', '', '', '', '', '', '', '', '', '', '12', '2012-11-26', 'LG1', '2014-01-03', '2014-01-31', '2014-03-05', '2014-04-04', '2014-05-05', '2014-05-30', '2013-07-02', '2013-07-31', '2013-08-30', '2013-10-02', '2013-11-08', '2013-12-04', 0x312E2D20534520524554204D4544203130353533204C2D204E4F2056495349424C45204E4F2046554E43494F4E4120534520494E5354204D454420313335393237204C2D302031302F454E452F39362E2D0D0A20
+[Err] [Dtf] 1153 - Got a packet bigger than 'max_allowed_packet' bytes With statement: INSERT INTO `Lecturas` VALUES ('200', '2720', '5430', '5444', '5459', '5471', '5482', '5339', '5355', '5370', '5381', '5393', '5407', '5418', '', '', '', '', '', '', '', '', '', '', '', '', '2', '2013-02-08', 'SKY', '2014-01-20', '2014-02-18', '2014-03-18', '2014-04-16', '2014-05-16', '2013-06-18', '2013-07-17', '2013-08-16', '2013-09-16', '2013-10-16', '2013-11-20', '2013-12-19', 0x312E2D31342D30322D393620534520494E5354414C4F204D4544203936333538204C2D300D0A322E2D32362D30382D393720494E53502E3235373236204D4544203936333538204C2D343836204D45442046554E43494F4E41204E4F524D414C205553554152494F20415345475552412051554520454E20444941532053414C452041475541205920454E204F54524F53204E4F204C4156414E444F2053414C4520434F4E20504F43412050524553494F4E2050524F4241424C454D454E5445204D454449444F52204147415252452041495245204E4F205449454E45204655474153203420504552534F4E41532031204341534120504F5220494E53502E5245414C495A41444120534520434F4252414E203638204D5453205041524120534550542E2F4956450D0A332E2D32362D30392D393720494E53502E3236343430204D4544203936333538204C2D353835204D45442046554E43494F4E414E444F204E4F524D414C204E4F205345204C4F43414C495A4F2046554741205553554152494F204153454755524120515545204E4F2053414C45204147554120454E204C41204E4F434845203320504552534F4E41532031204341534120504F5220494E53502E5245414C495A41444120534520434F4252414E203537204D54532050415241204F43542E2F49564520312F32202F2F41535650303520312F32202F2F415356502C00270032003000310033002D00300037002D003300300027002C00270032003000310033002D00300039002D003300300027002C00270032003000310033002D00310030002D003300300027002C00270032003000310033002D00310032002D003000320027002C003000780033003500330036003300360033003200330032003300340033003000320030003400340034003500350033003400380032003000320030003300320033003500320046003300310033003000320046003300320033003000330030003300390034004600300030003700350030003000370034003000300032003000300030003600460030003000360036003000300032003000300030003600440030003000360035003000300036004400300030003600460030003000370032003000300030003000300030003000440030003000300041003000300030003000300030003000310030003000300030003000300041003800460034003600460030003000300030003000300030003000300030003100300030003000300030003000300045003000300038003700360030003200300030003000300030003000300030003000300030003000000030003000300033004500300030003000300000003000350030003200000043004300300000003700300000003400350000000000330000000000303046464634463746433030303030303030000000000000000061217D04C00300006D656469646F726E6F65737461636F6E65637461646F6C65632030303030202032342F30312F323030360D0A312E2D3136204445204645425245524F2030362E2D4341534120444553482C4E4F204A415244494E2E4E4F205345205055444F20434845434152204D45442E4D45442053492046554E43494F4E412E302D302E0D0A206D656469646F726E6F65737461697374616C61646F6C6563302030303030202032322F30322F323030360D0A322E2D3133204445204D41525A4F2030362E2D5345205245515549455245204C412033312E43415341204445204D4154455249414C2C3820504552534F4E41532E38206C6563742E207265616C20363934302078206F7264656E2064656C2063702E207061626C6F2063617A617265732E2C2020676F66636173612079206F666963696E61202030352F30322F323031330000000000000000000000000000000000000000000100000000000000000000000000000001000000149E7A04000000000000000000000000780000002000000000000000000000000800000018000000E100000011000000000000000000000000000F020100000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010100003030303030303030303030303030303030300000000000000000000000000000E129070548B9750000000000000000000000000000000000000000000000000008010000000000000100000000000000E80E4400F80E440000000000682A5100B02307052C020000010000003100000018000000808004000000000000010100010600000000010300000000000000001E0000FF00000000000000000000F4FF0000000000000000F4FFFFFF1C00010000000000000000000000000000000000000000000000000000000000089153000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+[Err] [Dtf] 1153 - Got a packet bigger than 'max_allowed_packet' bytes With statement: INSERT INTO `Lecturas` VALUES ('753', '1660', '41', '41', '41', '41', '41', '41', '41', '41', '41', '41', '41', '41', '', '', '', '', '', '', '', '', '', '', '', '', '9', '2007-08-22', 'VTM', '2007-01-22', '2007-02-20', '2007-03-16', '2007-04-18', '2007-05-17', '2007-06-19', '2007-07-22', '2007-08-17', '2006-09-20', '2006-10-18', '2006-11-17', '2006-12-20', 0x312E2D3330204445204A554E494F2030352E2D434153412044455348414249544144412E0D2063617361646573616269746164616C65633431202031382F30342F323030374A41302E00720020007400680061006E00200027006D00610078005F0061006C006C006F007700650064005F007000610063006B006500740027002000620079007400000000000000000060DA7F029A0000004600690078006500640020005700690064007400680020002D0020004600690065006C00640073002000610072006500200061006C00690067006E0065006400200069006E00200063006F006C0075006D006E00730020007700690074006800200073007000610063006500730020006200650074007700), ('754', '1400', '320', '320', '320', '320', '0', '320', '320', '320', '320', '320', '320', '320', '', '', '', '', 'H', '', '', '', '', '', '', '', '11', '2011-10-20', 'SKY', '2014-01-22', '2014-02-24', '2014-03-24', '2014-04-24', '2014-05-21', '2013-06-20', '2013-07-19', '2013-08-22', '2013-09-23', '2013-10-20', '2013-11-25', '2013-12-29', 0x312E2D30392F30382F32303035204C4543542E3337362C204D45442E54524142414A41204E4F524D414C2C2046554741200D0A454E20454C204D45442E32204144554C544F532C33204E49A54F532C31204241A54F2C2031204C4C4156450D0A322E2D6D656469646F72206E7565766F203036303634363037202032332F31312F323030360D0A332E2D6D656469646F72206E7565766F202032302F31322F323030360D0A342E2D534552564943494F20434F525441444F202032312F30322F323030380D0A352E2D6465736861626974616461202032312F30392F323030380D0A362E2D31362F30382F313020434F425241522032393820565320333130204F52442E432E502E5041424C4F2043415A4152455320202020202020544A56562E2D0D0A372E2D31342D30392D31302D534520434F42524152412031314D5453204143542032393520434845434152204C4543542050524F58204D4553205820494E442043502043415A4152455320204D56470D0A434F525445532F2F4645524D494E204D2031352F31322F313020534520515549544F204E49504C45202F2F45455A0D20636173612E696E6162697461626C65202032352F31312F3230313230303030303130303030303030303030303030303032303030303030303030303030463045423737303242303034303230303031303030303030373330303030303032453044304132303532343534333446344534353433343334393446344532303230333233303246333033343246333233303330333730443041343334463532353434353533324632463431344335363431353234463230353234463533343534453434344632303332333232463330333332463332333033313331323034333446353235343431343434463230343334463445323034313445353434353532343934463532343934343431343432303433343135333431323034383431343234393534343134343431324532453534343834333230323835303431343435323446344532393245324534413443353033303330333833333339333132443230323032303534353635323536343730303030303130303030303030303030303030303032303030303031303030303030303030303030303030323030303030313030303030303030303030303030303230303030303130303030303030303030303030303032303030303031303030303030303030303030303000003030000030313030303030300030303030303030303030303030303030303030000030303030303030303030000000000000412A7E02B004020000000000D10100003030312E2D2033302041474F53544F2032303036204C4543542E32363236204E4F204D415243412046554741204D45442E2053492046554E43494F4E41205345205245515549455245205341434152204D45442E20534520434F42524F20323533302056532E2032353738202043524D2020494E53502E2054454C4C4F0D0A206573203120636173612031207469656E6461202031312F30392F323030370D0A204C45432A414C5441202031312F30382F323030380D0A322E2D3033205345505420303820504F52205245502044454C204C454354555249535441204C45435455524120414C54410D0A534520434F4252414E203934204D54532C494E4420444520432E502E4A55414E204445204C41204352555A204652432E0D0A434F525445532F2F414D41444F20414E4159412030332F30392F32303130204E4F544946494341444F20204252454E44410D0A434F525445532F2F484543544F522047555449455252455A2030352F31302F32303130204E4F544946494341444F204252454E44410D20504F52544F4E2D5345525241444F202031302F30352F323031320D20
+[Err] [Dtf] 1153 - Got a packet bigger than 'max_allowed_packet' bytes With statement: INSERT INTO `Lecturas` VALUES ('735', '1780', '390', '390', '390', '390', '0', '390', '390', '390', '390', '390', '390', '390', '', '', '', '', 'H', '', '', '', '', '', '', '', '5', '2014-05-12', 'MMM', '2014-01-24', '2014-02-22', '2014-03-25', '2014-04-21', '2014-05-21', '2013-06-24', '2013-07-24', '2013-08-23', '2013-09-26', '2013-10-28', '2013-11-26', '2013-12-28', 0x434F525445532F2F564943544F5220522031332F31322F3130205345204E4F54494649434F2E2E414C454F0D0A32372F30362F3131204C4543542E5245504F52544120434153412044455348414249544144412020202020544A56562E2D0D0A3733352D313739302061756D656E74617220636F6E73756D6F202032362F31312F323031310D0A434F525445532F564943544F522030352F30392F323031332053452052455449524F204E49504C4520444520312F3220034A455353590D0A636F727420646573686162202032362F31312F323031330D0A434F525420444553484142202032382F31322F3230313331322F323031326C6563742E323033303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030000030303030303000003030003030303030000030300000303030300030000030300000000000000000B123070548B9750000000000000000000000000000000000000000000000000008000000000000000100000000000000E80E4400F80E440000000000682A5100E0290705DE010000010000000E00000018000000800004000000000000010000010600000000010300000000000000001E0000FF00000000000000000000F4FF0000000000000000F4FFFFFF1C0001000000000000000000000000000000000000000000000000000000000008915300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000100000064758302000000000000000000000000E50100000D000000000000000000000000000000000000000E0000001700000000000000207907050000000080B17D0240FC7204), ('735', '1160', '261', '269', '281', '287', '294', '210', '213', '215', '224', '237', '248', '256', '', '', '', '', '', '', '', '', '', '', '', '', '1', '2013-01-10', 'MMM', '2014-01-24', '2014-02-22', '2014-03-25', '2014-04-21', '2014-05-21', '2013-06-24', '2013-07-24', '2013-08-23', '2013-09-26', '2013-10-27', '2013-11-26', '2013-12-28', 0x312E2D32322F31302F31302044415220444520414C544120515549544152204749524F204143542E4C4543542E30323732205920434F42524152203131204D33204F52442E432E502E5041424C4F2043415A41524553202020202020544A56562E2D0D0A434F525445532F2F4A4553555320432031342F30332F313120534520434F52544F20534520434552524F204C4C4156452044452042414E51554554412E2E2E414C454F0D0A322E2D30312F31312F323031312E2D534520494E53542E204D45442E20312F32204C2F43204E6F2E3131333535383032205820484543544F52204D4F4E54454D41594F522F2F2F2F4B4C41550D0A6D6564206E7565766F202032352F31312F32303131333033323330303030303030303030303030303030303630444137463032394130303030303034363030363930303738303036353030363430303230303035373030363930303634303037343030363830303230303032443030323030303436303036393030363530303643303036343030373330303230303036313030373230303635303032303030363130303643303036393030363730303645303036353030363430303230303036393030364530303230303036333030364630303643303037353030364430303645303037333030323030303737303036393030373430303638303032303030373330303730303036313030363330303635303037333030323030303632303036350000303037373030000000000000000000000000000000000172790434020000312E2D203139204E4F562E3230303420434153412043455252414441204D45442E20454E20454C20494E544552494F52204E4F205345204C4F43414C495A4F205553554152494F205041524120504F4445522043484543415220454C204D45442E0D0A504F5220494E53502E205245414C495A41444120534
+[Err] [Dtf] 1153 - Got a packet bigger than 'max_allowed_packet' bytes With statement: INSERT INTO `Lecturas` VALUES ('604', '1075', '249', '259', '266', '274', '286', '304', '194', '194', '195', '195', '221', '238', '', '', '', '', '', '', '', '', '', '', '', '', '4', '2009-03-27', 'POO', '2014-01-10', '2014-02-11', '2014-03-11', '2014-04-08', '2014-05-11', '2014-06-08', '2013-07-05', '2013-08-07', '2013-09-09', '2013-10-06', '2013-11-11', '2013-12-10', 0x312E2D6573206361736120736F6C61207365707469656D6272652F30352F3037202030352F30392F323030370D0A322E2D6573206361736120736F6C61206F6374756272652F30332F3037202030332F31302F323030370D0A332E2D7961206861792067656E7465206E6F7669656D6272652F3033202F3037202030332F31312F323030370D0A342E2D65732063617361206465736861626974616461202030372F30312F323030380D0A352E2D65732063617361206465736861626974616461206E6F20686120792067656E7465202030312F30322F323030380D0A362E2D65732063617361206465736861626974616461206E6F20686120792067656E7465202030362F30332F323030380D0A372E2D45532043415341204445534841424954414441204E4F20484120592047454E5445202030332F30342F323030380D0A382E2D4E4F204841592047454E5445205449454E45204C4543545552204120454E2030303430202030382F30352F323030380D0A392E2D63617361206465736861626974616461202030342F30392F323030380D0A31302E2D626F73717565732064652063697275656C6F73203331322063617361206861626974616461206E6F2073616C65207265632069626F202030352F31322F323030380D0A31312E2D31322F30332F303920696E73702E6C6563742E3535206D65642E20617A74656361206E6F206D6172636120667567617320756E612063617361206465206D6174657269616C2064652032207069736F732073696E206A617264696E206E6F207365206C6F63616C697A6F207573756172696F206E6920766563696E6F73207175652064656E20696E666F726D6163696F6E2E20686F7261206465206C6120696E73702E383A3030206120383A313020616D2E20696E73706563742E206A65737573207472656A6F2079206A6F726765206976616E2E0D20706F636F2075736F202030352F30372F3230313333003000300030003000300030003000330030003000300030003000300030003000300030003000300030003000320030003000300030004400300046003400440030003000350042003000300034003000320030003000300031003000300030003000300030003500410030003000300030003000300033003100320045003200440033003300330030003200460033003000330037003200460033003000330039003200300037003300360035003200300036003100370030003600430036003900360033003600310032003000360035003600430032003000360033003600460037003300360045003700350036004400360046003200300036003400360035003200300033003600330036003300390032003000370036003700330032003000330037003300330033003400330044003300360033003500320030003600440033003300320045003200300036003900360045003600340032004500320030003600340036003500320030003600330032004500370030003200450032003000370030003600310036003200360043003600460032003000360033003600310037004100360031003700320036003500370033003200450032003000320030003200300032003000360043003700350036003300370039003200450032003000300030003600440030003000360046003000300036003400300030003700350030003000360043003000300036003500300030003200300030003000320037003000300036004500300030003600310030003000370036003000300036003900300030003600330030003000360031003000300037003400300030003200450030003000360035003000300037003800300030003600350030003000320037003000300032004500300030003200300030003000350032003000300036003500300030003600310030003000360034003000300032003000300030003600460030003000360036000000300030002900000032433030344530303535303034430000344330303243303034453030000046004600000000000000000000000000908B5403B004020001000000BD0200002800270034003200310027002C002700330036003800300027002C002700310033003900320027002C002700310034003100320027002C002700310034003300310027002C002700310034003400330027002C002700310032003300360027002C002700310032003500380027002C002700310032003700370027002C002700310032003900360027002C002700310033003100330027002C002700310033003300370027002C002700310033003500350027002C002700310033003700340027002C00270027002C00270027002C00270027002C00270027002C00270027002C00270027002C00270027002C00270027002C00270027002C00270027002C00270027002C00270027002C0027003100310027002C00270032003000310033002D00310030002D003300300027002C00270053004B005900270
+[Err] [Dtf] 1153 - Got a packet bigger than 'max_allowed_packet' bytes With statement: INSERT INTO `Lecturas` VALUES ('777', '1420', '356', '356', '309', '397', '410', '428', '441', '455', '470', '484', '498', '0', '', '', '', '', '', '', '', '', '', '', '', '', '2', '2010-02-10', 'POO', '2010-01-18', '2010-02-18', '2013-03-19', '2010-04-20', '2010-05-17', '2010-06-18', '2010-07-16', '2010-08-17', '2010-09-20', '2010-10-18', '2010-11-16', '2010-12-16', 0x312E2D3737372D303930302065737461646573686162697461646F2E202032322F30352F323030370D0A203737372D313430302E30373030333639382E303030312E202032322F30312F323030380D0A204841592046554741204144454C414E54452044454C204D45442049444F52202031352F30372F323030390D0A20736572766963696F20636F727461646F206E6F20686179206D20656469646F72202031362F31302F323030390D0A20736572766963696F20636F727461646F206361736120646573206861626974616461206E6F20686179206D656469646F72202031372F31312F323030390D0A206361736120646573686162697461646120736572766963696F20636F727461646F206E6F20686179206D656469646F72202031372F31322F323030390D0A2063617361206861626974616461207365207265636F6E656374206F202031372F30332F323031300D0A207365207265636F6E6563746F202031382F31302F323031300D0A434F525445532F2F4D415254494E204D4F52454E4F2030332F30332F313120534520434F52544F20534520434552524F2042414E51554554412059204D414E47554552413A20475346200D0A434F525445532F2F204553544542414E2056414C44455A2033312F30332F323031312053452052455449524F204D414E4755455241204252454E44410D0A434F525445532F2F4A4F454C2050414C4F4D415245532030312F30362F3230313120432F414E542E2E4A4D530D0A434F525445532F2F204D415254494E204D20332F382F313120534520434552524F204C4C41564520442042515441205920534520515549544F204D414E4755455241202F2F45455A0D0A434F525445532F2F5245594E414C444F20534F53412033312F30382F3230313120534520434F52544F205345204345524F2042414E51555445412C2E2D41430D0A434F525445532F484543544F5220472E2030322F30322F3230313220534520434F52544F205920534520434552524F204C4C4156452044452042515441202F2F4A4D4D0D0A434F525445532F53414E544F5320322F30362F3230313420534520434552524F2042414E5155455441202F2F4153565043592E0036004600320030003200300033003100330031003200460033003000330033003200460033003200330030003300310033003400340045003000300036003100300030003700360030003000360039003000300036003300300030003600310030003000370034003000300032003000300030003500300030003000370032003000300036003500300030003600440030003000360039003000300037003500300030003600440030003000350043003000300036004500300030003600310030003000370036003000300036003900300030003600330030003000360031003000300037003400300030003200450030003000360035003000300037003800300030003600350030003000300030003000300030003000300030003000300030003000300030003000300034003100460043003700320030003400420030003000340030003200300030003000300030003000300030003000300033003800300030003000300030003000330031003200450032004400330032003300330032004400360041003700350036004300320044003300300033003800320030003600350036004300320030003600430036003500360033003700340032004500370032003600350037003000360046003700320037003400360031003200300037003100370035003600350032003000360043003600310032003000360033003600310037003300360031003200300036003500370033003700340036003100320030003700330036004600360043003600310032003000320030003200300036004300360039003700410035004300300030003400450030003000360031003000300037003600300030003600390030003000360033003000300036003100300030003700340030003000320030003000300035003000300030003700320030003000360035003000300036004400300030003600390030003000370035003000300036004400300030002900000000003030303030303030303046434534304230313430443144323035464345343042303134304431443230350000464345343042303134304431443230353030303030303030303030303030303039344342353800000030303000003030000000000000A111D305B004020000000000F502000030322F30312F3038204C4543542E5245504F52544120504552524F20425241564F2020202020202020544A56562E2D0D0A72656374696669636172206C656374757261202032372F31302F323030380D0A746F6D6120646520332F34202032332F30322F323030390D0A636173612063657272616461202032362F31312F323030390D0A7469656E652063616E6461646F202032382F31312F323031320D0A79612073616361726F6E206
+[Err] [Dtf] 1153 - Got a packet bigger than 'max_allowed_packet' bytes With statement: INSERT INTO `Lecturas` VALUES ('151', '0885', '986', '993', '1005', '1016', '1023', '893', '908', '927', '944', '956', '969', '977', '', '', '', '', '', '', '', '', '', '', '', '', '11', '2011-10-24', 'BNC', '2014-01-22', '2014-02-20', '2014-03-21', '2014-04-22', '2014-05-20', '2013-06-17', '2013-07-18', '2013-08-20', '2013-09-20', '2013-10-18', '2013-11-21', '2013-12-17', 0x32312D30342D303820534520494E53542E204D45442E20312F3222204C2F43204E6F2E203030373131373336363620432F560D204C4F432C30383830204841424954414441204E554D45524F2041435455414C2C45205A41504154412031313130202031362F30372F323030380D204C4F432E3135312D303838302E44455348414249544144412E202032322F31322F32303039313230303030303030303030303034304633383330323238433034363030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030464646464646464646464646464646463030303030303030303030303030303030303030303030304430303730303032303030303030303030303030303030300000000000000000000000000000305E7602B0040200010000009400000032312D30342D303820534520494E53542E204D45442E20312F3222204C2F43204E6F2E203030373131373336363620432F560D204C4F432C30383830204841424954414441204E554D45524F2041435455414C2C45205A41504154412031313130202031362F30372F323030380D204C4F432E3135312D303838302E44455348414249544144412E202032322F31322F3230303931323030303030303030303030303430463338333032323843303436303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303046464646464646464646464646464646303030303030303030303030303030303030), ('655', '1190', '1267', '1281', '1315', '1343', '1388', '1162', '1181', '1199', '1214', '1228', '1241', '1252', '', '', '', '', '', '', '', '', '', '', '', '', '5', '2014-05-05', 'LST', '2014-01-14', '2014-02-12', '2014-03-12', '2014-04-10', '2014-05-14', '2013-06-10', '2013-07-09', '2013-08-14', '2013-09-11', '2013-10-11', '2013-11-13', '2013-12-10', 0x32312D30342D303820534520494E53542E204D45442E20312F3222204C2F43204E6F2E203030373131373336373020432F56204A5043480D0A2036353531313830206465736861626974616461202030382F31302F323030380D0A2036353531313830204841424954414441202030392F31322F323030380D0A20363535313139352044455348202031302F30342F323031300D0A205449454E452E465547412E494E5350202031322F30332F323031340D0A312E2D30342D30342D31342D534520434F42524152412033344D5453204C454354205245414C2031333334205820494E442043502043415A4152455320204D56470D0A322E2D30342D30342D31342D4C2D313335354D545320534920534520505545444520544F4D4152204C454354204E4F204D415243412046554741203120434153412044452032205049534F53204E4F204A415244494E2E494E5350204D415254494E20475545525245524F2C4755535441564F20544F525245532C4341524C4F5320524F4452494755455A2E202030372D30342D313420204D56470D0A332E2D5820494E442044454C204350205041424C4F2043415A415245532053452053504C494341204C41204C4543542C313331352056532031333433202E2E2E4C535430303030303030303030303031313232373830324643303030303030333132453244323033323331323034343439343332453332333033303335323034433435343335343245333133373339333132303435353332303535344532303534343535323532343534453446323035333446344334463230353334353230343934373535343134433446323034433435343335343245323034333532344434413444353330303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030343030463833303230303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030003030303030303030323030303030313030303030303030303030303030303200000000000041397E02E404010000000000A8030000333132453244364436353634323036453736364633303337333033303330333133323337323036433635363337343735373236313331364432303734364632303230333233333246333033323246333233303330333730443041333233303246
+[Msg] [Dtf] End transaction on target server
+[Err] [Dtf] Finished - Unsuccessfully
+--------------------------------------------------

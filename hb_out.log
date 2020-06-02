@@ -1,0 +1,69 @@
+Application Internal Error - G:\ComapaSql\Comapa.exe
+Terminated at: 2014-06-15 12:56:15
+Unrecoverable error 9003: Too many recursive error handler calls
+Called from (b)MAIN(4) in G:\ComapaSql\main.prg
+Called from _DOWINDOWEVENTPROCEDURE(5691) in source\h_windows.prg
+Called from EVENTS(1410) in source\h_windows.prg
+Called from C_MSGSTOP(0)
+Called from SHOWERROR(168) in source\ErrorSys.prg
+Called from DEFERROR(117) in source\ErrorSys.prg
+Called from (b)ERRORSYS(55) in source\ErrorSys.prg
+Called from (b)MAIN(4) in G:\ComapaSql\main.prg
+Called from _DOWINDOWEVENTPROCEDURE(5691) in source\h_windows.prg
+Called from EVENTS(1410) in source\h_windows.prg
+Called from C_MSGSTOP(0)
+Called from SHOWERROR(168) in source\ErrorSys.prg
+Called from DEFERROR(117) in source\ErrorSys.prg
+Called from (b)ERRORSYS(55) in source\ErrorSys.prg
+Called from (b)MAIN(4) in G:\ComapaSql\main.prg
+Called from _DOWINDOWEVENTPROCEDURE(5691) in source\h_windows.prg
+Called from EVENTS(1410) in source\h_windows.prg
+Called from C_MSGSTOP(0)
+Called from SHOWERROR(168) in source\ErrorSys.prg
+Called from DEFERROR(117) in source\ErrorSys.prg
+Called from (b)ERRORSYS(55) in source\ErrorSys.prg
+Called from (b)MAIN(4) in G:\ComapaSql\main.prg
+Called from _DOWINDOWEVENTPROCEDURE(5691) in source\h_windows.prg
+Called from EVENTS(1410) in source\h_windows.prg
+Called from C_MSGSTOP(0)
+Called from SHOWERROR(168) in source\ErrorSys.prg
+Called from DEFERROR(117) in source\ErrorSys.prg
+Called from (b)ERRORSYS(55) in source\ErrorSys.prg
+Called from (b)MAIN(4) in G:\ComapaSql\main.prg
+Called from _DOWINDOWEVENTPROCEDURE(5691) in source\h_windows.prg
+Called from EVENTS(1410) in source\h_windows.prg
+Called from C_MSGSTOP(0)
+Called from SHOWERROR(168) in source\ErrorSys.prg
+Called from DEFERROR(117) in source\ErrorSys.prg
+Called from (b)ERRORSYS(55) in source\ErrorSys.prg
+Called from (b)MAIN(4) in G:\ComapaSql\main.prg
+Called from _DOWINDOWEVENTPROCEDURE(5691) in source\h_windows.prg
+Called from EVENTS(1410) in source\h_windows.prg
+Called from C_MSGSTOP(0)
+Called from SHOWERROR(168) in source\ErrorSys.prg
+Called from DEFERROR(117) in source\ErrorSys.prg
+Called from (b)ERRORSYS(55) in source\ErrorSys.prg
+Called from (b)MAIN(4) in G:\ComapaSql\main.prg
+Called from _DOWINDOWEVENTPROCEDURE(5691) in source\h_windows.prg
+Called from EVENTS(1410) in source\h_windows.prg
+Called from C_MSGSTOP(0)
+Called from SHOWERROR(168) in source\ErrorSys.prg
+Called from DEFERROR(117) in source\ErrorSys.prg
+Called from (b)ERRORSYS(55) in source\ErrorSys.prg
+Called from (b)MAIN(4) in G:\ComapaSql\main.prg
+Called from _DOWINDOWEVENTPROCEDURE(5691) in source\h_windows.prg
+Called from EVENTS(1410) in source\h_windows.prg
+Called from C_MSGSTOP(0)
+Called from SHOWERROR(168) in source\ErrorSys.prg
+Called from DEFERROR(117) in source\ErrorSys.prg
+Called from (b)ERRORSYS(55) in source\ErrorSys.prg
+Called from (b)MAIN(4) in G:\ComapaSql\main.prg
+Called from _DOWINDOWEVENTPROCEDURE(5691) in source\h_windows.prg
+Called from EVENTS(1410) in source\h_windows.prg
+Called from UPDATEWINDOW(0)
+Called from EVENTS(893) in source\h_windows.prg
+Called from SHOWWINDOW(0)
+Called from _ACTIVATEWINDOW(5228) in source\h_windows.prg
+Called from DOMETHOD(7981) in source\h_controlmisc.prg
+Called from MAIN(10) in G:\ComapaSql\main.prg
+------------------------------------------------------------------------

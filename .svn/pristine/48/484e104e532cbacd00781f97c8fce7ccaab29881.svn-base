@@ -1,0 +1,47 @@
+hbmk2: Harbour: Compilando m¢dulos...
+Harbour 3.2.0dev (r1506261250)
+Copyright (c) 1999-2015, http://harbour-project.org/
+hbmk2: Compilando...
+G:\Otros\ComapaSql\tools.prg:694:0: warning: "_WIN32_WINNT" redefined
+ #define _WIN32_WINNT   0x501
+ ^
+In file included from C:/hmg.3.4.1/mingw/i686-w64-mingw32/include/vadefs.h:9:0,
+                 from C:/hmg.3.4.1/mingw/i686-w64-mingw32/include/_mingw_stdarg.h:14,
+                 from C:/hmg.3.4.1/mingw/i686-w64-mingw32/include/stdarg.h:140,
+                 from C:/hmg.3.4.1/mingw/lib/gcc/i686-w64-mingw32/4.9.2/include/stdarg.h:1,
+                 from C:/hmg.3.4.1/harbour/include/hbdefs.h:52,
+                 from C:/hmg.3.4.1/harbour/include/hbvmpub.h:52,
+                 from ../../../.hbmk/win/mingw/tools.c:7:
+C:/hmg.3.4.1/mingw/i686-w64-mingw32/include/_mingw.h:229:0: note: this is the location of the previous definition
+ #define _WIN32_WINNT 0x502
+ ^
+G:\Otros\ComapaSql\tools.prg:704:0: warning: "EM_SETCUEBANNER" redefined
+ #define   EM_SETCUEBANNER       (ECM_FIRST + 1)      // Set the cue banner with the lParm = LPCWSTR
+ ^
+In file included from G:\Otros\ComapaSql\tools.prg:698:0:
+C:/hmg.3.4.1/mingw/i686-w64-mingw32/include/commctrl.h:4430:0: note: this is the location of the previous definition
+ #define EM_SETCUEBANNER (ECM_FIRST+1)
+ ^
+G:\Otros\ComapaSql\tools.prg:705:0: warning: "Edit_SetCueBannerText" redefined
+ #define Edit_SetCueBannerText(hwnd, lpcwText) \
+ ^
+In file included from G:\Otros\ComapaSql\tools.prg:698:0:
+C:/hmg.3.4.1/mingw/i686-w64-mingw32/include/commctrl.h:4431:0: note: this is the location of the previous definition
+ #define Edit_SetCueBannerText(hwnd,lpcwText) (WINBOOL)SNDMSG((hwnd),EM_SETCUEBANNER,0,(LPARAM)(lpcwText))
+ ^
+G:\Otros\ComapaSql\tools.prg:707:0: warning: "EM_GETCUEBANNER" redefined
+ #define   EM_GETCUEBANNER       (ECM_FIRST + 2)      // Set the cue banner with the lParm = LPCWSTR
+ ^
+In file included from G:\Otros\ComapaSql\tools.prg:698:0:
+C:/hmg.3.4.1/mingw/i686-w64-mingw32/include/commctrl.h:4432:0: note: this is the location of the previous definition
+ #define EM_GETCUEBANNER (ECM_FIRST+2)
+ ^
+G:\Otros\ComapaSql\tools.prg:708:0: warning: "Edit_GetCueBannerText" redefined
+ #define Edit_GetCueBannerText(hwnd, lpwText, cchText) \
+ ^
+In file included from G:\Otros\ComapaSql\tools.prg:698:0:
+C:/hmg.3.4.1/mingw/i686-w64-mingw32/include/commctrl.h:4433:0: note: this is the location of the previous definition
+ #define Edit_GetCueBannerText(hwnd,lpwText,cchText) (WINBOOL)SNDMSG((hwnd),EM_GETCUEBANNER,(WPARAM)(lpwText),(LPARAM)(cchText))
+ ^
+hbmk2: Enlazando... Comapa.exe
+
